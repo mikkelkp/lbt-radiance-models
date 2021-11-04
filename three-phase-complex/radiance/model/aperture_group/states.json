@@ -1,0 +1,36 @@
+{
+    "ApertureGroup_6f9cedf9": [
+        {
+            "dmtx": "./ApertureGroup_6f9cedf9..mtx.rad", 
+            "black": "./ApertureGroup_6f9cedf9..black.rad", 
+            "direct": "./ApertureGroup_6f9cedf9..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_ApertureGroup_6f9cedf9", 
+            "vmtx": "./ApertureGroup_6f9cedf9..mtx.rad", 
+            "default": "./ApertureGroup_6f9cedf9..default..0.rad"
+        }, 
+        {
+            "dmtx": "./ApertureGroup_6f9cedf9..mtx.rad", 
+            "black": "./ApertureGroup_6f9cedf9..black.rad", 
+            "direct": "./ApertureGroup_6f9cedf9..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_ApertureGroup_6f9cedf9", 
+            "vmtx": "./ApertureGroup_6f9cedf9..mtx.rad", 
+            "default": "./ApertureGroup_6f9cedf9..default..1.rad"
+        }
+    ], 
+    "ApertureGroup_dee1ba5a": [
+        {
+            "black": "./ApertureGroup_dee1ba5a..black.rad", 
+            "direct": "./ApertureGroup_dee1ba5a..direct..0.rad", 
+            "identifier": "0_ApertureGroup_dee1ba5a", 
+            "default": "./ApertureGroup_dee1ba5a..default..0.rad"
+        }, 
+        {
+            "black": "./ApertureGroup_dee1ba5a..black.rad", 
+            "direct": "./ApertureGroup_dee1ba5a..direct..1.rad", 
+            "identifier": "1_ApertureGroup_dee1ba5a", 
+            "default": "./ApertureGroup_dee1ba5a..default..1.rad"
+        }
+    ]
+}

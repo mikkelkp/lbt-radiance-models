@@ -1,0 +1,338 @@
+# VMTX representation for "ApertureGroup_6f9cedf9"
+
+void glow white_glow_ApertureGroup_6f9cedf9
+0
+0
+4 1.0 1.0 1.0 0.0
+
+#@rfluxmtx h=kf u=0.0,-1.0,0.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_3b41e303
+0
+0
+12 0.25 2.5 7.0 2.75 2.5 7.0 2.75 0.5 7.0 0.25 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_87d2750d
+0
+0
+12 -2.75 0.5 7.0 -2.75 2.5 7.0 -0.25 2.5 7.0 -0.25 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_deef0fdb
+0
+0
+12 2.5 12.0 3.2 -2.5 12.0 3.2 -2.5 12.0 0.7 2.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_a98370ad
+0
+0
+12 3.0 2.5 0.7 3.0 0.5 0.7 3.0 0.5 3.2 3.0 2.5 3.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_be48d1a4
+0
+0
+12 -2.5 -9.0 3.54898031077 2.5 -9.0 3.54898031077 2.5 -9.0 1.04898031077 -2.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_9b583431
+0
+0
+12 3.0 -0.5 0.7 3.0 -2.5 0.7 3.0 -2.5 3.2 3.0 -0.5 3.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_4d4fb069
+0
+0
+12 -8.5 -9.0 3.54898031077 -3.5 -9.0 3.54898031077 -3.5 -9.0 1.04898031077 -8.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_bc2ff69f
+0
+0
+12 -14.5 -9.0 3.54898031077 -9.5 -9.0 3.54898031077 -9.5 -9.0 1.04898031077 -14.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_94fe3a32
+0
+0
+12 -9.0 0.5 3.2 -9.0 2.5 3.2 -9.0 2.5 0.7 -9.0 0.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_1772e12c
+0
+0
+12 -9.5 12.0 3.2 -14.5 12.0 3.2 -14.5 12.0 0.7 -9.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_4da42ada
+0
+0
+12 -20.5 -9.0 3.54898031077 -15.5 -9.0 3.54898031077 -15.5 -9.0 1.04898031077 -20.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_82c3bd43
+0
+0
+12 -51.0 0.5 3.2 -51.0 2.5 3.2 -51.0 2.5 0.7 -51.0 0.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_ddde8aa8
+0
+0
+12 -51.5 12.0 3.2 -56.5 12.0 3.2 -56.5 12.0 0.7 -51.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_e26078b1
+0
+0
+12 -26.5 -9.0 3.54898031077 -21.5 -9.0 3.54898031077 -21.5 -9.0 1.04898031077 -26.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_2da2d8d3
+0
+0
+12 -50.5 -36.0 7.8 -48.5 -36.0 7.8 -48.5 -36.0 3.8 -50.5 -36.0 3.8
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_ae4644a2
+0
+0
+12 -35.5 -36.0 7.8 -33.5 -36.0 7.8 -33.5 -36.0 3.8 -35.5 -36.0 3.8
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_a6fa5964
+0
+0
+12 -33.0 -29.5 0.2 -33.0 -29.5 4.2 -33.0 -27.5 4.2 -33.0 -27.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_11a95577
+0
+0
+12 -33.0 -26.5 0.2 -33.0 -26.5 4.2 -33.0 -24.5 4.2 -33.0 -24.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_e4366ea4
+0
+0
+12 -33.0 -20.5 0.2 -33.0 -20.5 4.2 -33.0 -18.5 4.2 -33.0 -18.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_41c3a750
+0
+0
+12 -33.0 -35.5 0.2 -33.0 -35.5 4.2 -33.0 -33.5 4.2 -33.0 -33.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_aca9a753
+0
+0
+12 -51.0 -27.5 4.2 -51.0 -29.5 4.2 -51.0 -29.5 0.2 -51.0 -27.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_5f3f06e6
+0
+0
+12 -51.0 -24.5 4.2 -51.0 -26.5 4.2 -51.0 -26.5 0.2 -51.0 -24.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_4a6fe5be
+0
+0
+12 -51.0 -33.5 4.2 -51.0 -35.5 4.2 -51.0 -35.5 0.2 -51.0 -33.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_dee8eb87
+0
+0
+12 -51.0 -18.5 4.2 -51.0 -20.5 4.2 -51.0 -20.5 0.2 -51.0 -18.5 0.2
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_f91ced94
+0
+0
+12 -11.75 2.5 11.0 -9.25 2.5 11.0 -9.25 0.5 11.0 -11.75 0.5 11.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_e6c91947
+0
+0
+12 -14.75 0.5 11.0 -14.75 2.5 11.0 -12.25 2.5 11.0 -12.25 0.5 11.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_1ac2bf77
+0
+0
+12 -9.5 12.0 7.2 -14.5 12.0 7.2 -14.5 12.0 4.7 -9.5 12.0 4.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_b75c8f2e
+0
+0
+12 -9.0 0.5 7.2 -9.0 2.5 7.2 -9.0 2.5 4.7 -9.0 0.5 4.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_80330993
+0
+0
+12 -23.75 2.5 7.0 -21.25 2.5 7.0 -21.25 0.5 7.0 -23.75 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_1209e591
+0
+0
+12 -26.75 0.5 7.0 -26.75 2.5 7.0 -24.25 2.5 7.0 -24.25 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_15a816b5
+0
+0
+12 -21.5 12.0 3.2 -26.5 12.0 3.2 -26.5 12.0 0.7 -21.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_c54ce370
+0
+0
+12 -21.0 0.5 3.2 -21.0 2.5 3.2 -21.0 2.5 0.7 -21.0 0.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_b4dcd794
+0
+0
+12 -27.0 2.5 0.7 -27.0 2.5 3.2 -27.0 0.5 3.2 -27.0 0.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_147f6eac
+0
+0
+12 -53.75 2.5 11.0 -51.25 2.5 11.0 -51.25 0.5 11.0 -53.75 0.5 11.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_42f8e2a1
+0
+0
+12 -56.75 0.5 11.0 -56.75 2.5 11.0 -54.25 2.5 11.0 -54.25 0.5 11.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_ece0b205
+0
+0
+12 -51.5 12.0 7.2 -56.5 12.0 7.2 -56.5 12.0 4.7 -51.5 12.0 4.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_c8153503
+0
+0
+12 -51.0 0.5 7.2 -51.0 2.5 7.2 -51.0 2.5 4.7 -51.0 0.5 4.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_d028144f
+0
+0
+12 -77.75 2.5 7.0 -75.25 2.5 7.0 -75.25 0.5 7.0 -77.75 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_84c3db92
+0
+0
+12 -80.75 0.5 7.0 -80.75 2.5 7.0 -78.25 2.5 7.0 -78.25 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_da0819ec
+0
+0
+12 -75.5 12.0 3.2 -80.5 12.0 3.2 -80.5 12.0 0.7 -75.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_280ad082
+0
+0
+12 -75.0 0.5 3.2 -75.0 2.5 3.2 -75.0 2.5 0.7 -75.0 0.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_76686f4f
+0
+0
+12 -33.0 2.5 0.7 -33.0 2.5 3.2 -33.0 0.5 3.2 -33.0 0.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Ajd_Aperture_b4dcd794
+0
+0
+12 -27.0 0.5 0.7 -27.0 0.5 3.2 -27.0 2.5 3.2 -27.0 2.5 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_f6e33110
+0
+0
+12 -27.5 12.0 0.7 -27.5 12.0 3.2 -32.5 12.0 3.2 -32.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_6e30792b
+0
+0
+12 -32.75 0.5 11.0 -32.75 2.5 11.0 -30.25 2.5 11.0 -30.25 0.5 11.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_840ea58b
+0
+0
+12 -29.75 2.5 11.0 -27.25 2.5 11.0 -27.25 0.5 11.0 -29.75 0.5 11.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_c2eb4eed
+0
+0
+12 -27.5 12.0 4.7 -27.5 12.0 7.2 -32.5 12.0 7.2 -32.5 12.0 4.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_5b4abd9d
+0
+0
+12 -33.0 2.5 4.7 -33.0 2.5 7.2 -33.0 0.5 7.2 -33.0 0.5 4.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_2c3b56b4
+0
+0
+12 -62.5 -9.0 3.54898031077 -57.5 -9.0 3.54898031077 -57.5 -9.0 1.04898031077 -62.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_97af6f8a
+0
+0
+12 -80.5 -9.0 3.54898031077 -75.5 -9.0 3.54898031077 -75.5 -9.0 1.04898031077 -80.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_f181f261
+0
+0
+12 -68.5 -9.0 3.54898031077 -63.5 -9.0 3.54898031077 -63.5 -9.0 1.04898031077 -68.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_db75cb66
+0
+0
+12 -74.5 -9.0 3.54898031077 -69.5 -9.0 3.54898031077 -69.5 -9.0 1.04898031077 -74.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_6cc32645
+0
+0
+12 -32.5 -9.0 3.54898031077 -27.5 -9.0 3.54898031077 -27.5 -9.0 1.04898031077 -32.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_347b19ee
+0
+0
+12 -38.5 -9.0 3.54898031077 -33.5 -9.0 3.54898031077 -33.5 -9.0 1.04898031077 -38.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_6efbab31
+0
+0
+12 -44.5 -9.0 3.54898031077 -39.5 -9.0 3.54898031077 -39.5 -9.0 1.04898031077 -44.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_2ee32a72
+0
+0
+12 -50.5 -9.0 3.54898031077 -45.5 -9.0 3.54898031077 -45.5 -9.0 1.04898031077 -50.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_0e06cec4
+0
+0
+12 -56.5 -9.0 3.54898031077 -51.5 -9.0 3.54898031077 -51.5 -9.0 1.04898031077 -56.5 -9.0 1.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_f4892f11
+0
+0
+12 -32.5 -9.0 7.54898031077 -27.5 -9.0 7.54898031077 -27.5 -9.0 5.04898031077 -32.5 -9.0 5.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_0855f39a
+0
+0
+12 -38.5 -9.0 7.54898031077 -33.5 -9.0 7.54898031077 -33.5 -9.0 5.04898031077 -38.5 -9.0 5.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_5f135f8e
+0
+0
+12 -44.5 -9.0 7.54898031077 -39.5 -9.0 7.54898031077 -39.5 -9.0 5.04898031077 -44.5 -9.0 5.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_9d376292
+0
+0
+12 -50.5 -9.0 7.54898031077 -45.5 -9.0 7.54898031077 -45.5 -9.0 5.04898031077 -50.5 -9.0 5.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_f0d2725c
+0
+0
+12 -56.5 -9.0 7.54898031077 -51.5 -9.0 7.54898031077 -51.5 -9.0 5.04898031077 -56.5 -9.0 5.04898031077
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_e74cf10b
+0
+0
+12 -59.75 2.5 7.0 -57.25 2.5 7.0 -57.25 0.5 7.0 -59.75 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_ba5a64f7
+0
+0
+12 -62.75 0.5 7.0 -62.75 2.5 7.0 -60.25 2.5 7.0 -60.25 0.5 7.0
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_2778529b
+0
+0
+12 -57.5 12.0 3.2 -62.5 12.0 3.2 -62.5 12.0 0.7 -57.5 12.0 0.7
+
+white_glow_ApertureGroup_6f9cedf9 polygon Aperture_ad793b3b
+0
+0
+12 -63.0 2.5 0.7 -63.0 2.5 3.2 -63.0 0.5 3.2 -63.0 0.5 0.7
