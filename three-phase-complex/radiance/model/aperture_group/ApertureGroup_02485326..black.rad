@@ -1,0 +1,16 @@
+# BLACK representation for "ApertureGroup_02485326"
+
+void plastic black
+0
+0
+5 0.0 0.0 0.0 0.0 0.0
+
+black polygon Aperture_44e620f6
+0
+0
+12 -27.0 0.5 0.7 -27.0 0.5 3.2 -27.0 2.5 3.2 -27.0 2.5 0.7
+
+black polygon Ajd_Aperture_44e620f6
+0
+0
+12 -27.0 2.5 0.7 -27.0 2.5 3.2 -27.0 0.5 3.2 -27.0 0.5 0.7
