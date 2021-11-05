@@ -1,0 +1,13 @@
+# VMTX representation for "ApertureGroup_c392f1de"
+
+void glow white_glow_ApertureGroup_c392f1de
+0
+0
+4 1.0 1.0 1.0 0.0
+
+#@rfluxmtx h=kf u=-0.0,0.0,1.0
+
+white_glow_ApertureGroup_c392f1de polygon Aperture_c479b4df
+0
+0
+12 3.0 2.5 0.7 3.0 0.5 0.7 3.0 0.5 3.2 3.0 2.5 3.2
