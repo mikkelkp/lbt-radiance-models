@@ -1,31 +1,31 @@
 {
     "light_path": [
         [
-            "ApertureGroup_f2faa146"
+            "aperture_49"
         ], 
         [
-            "ApertureGroup_8d6795ba"
-        ], 
-        [
-            "ApertureGroup_8c7d86aa"
+            "aperture_50"
         ], 
         [
             "static_apertures"
         ], 
         [
-            "ApertureGroup_af07b43b"
+            "aperture_43"
         ], 
         [
-            "ApertureGroup_2838135a"
+            "aperture_44"
         ], 
         [
-            "ApertureGroup_38908a4a"
+            "aperture_45"
         ], 
         [
-            "ApertureGroup_aa464a87"
+            "aperture_46"
         ], 
         [
-            "ApertureGroup_2680c3e5"
+            "aperture_47"
+        ], 
+        [
+            "aperture_48"
         ]
     ], 
     "count": 324

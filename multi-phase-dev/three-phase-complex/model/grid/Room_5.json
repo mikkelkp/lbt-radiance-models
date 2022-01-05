@@ -1,10 +1,10 @@
 {
     "light_path": [
         [
-            "static_apertures"
+            "aperture_17"
         ], 
         [
-            "ApertureGroup_bb4c5296"
+            "static_apertures"
         ]
     ], 
     "count": 72
