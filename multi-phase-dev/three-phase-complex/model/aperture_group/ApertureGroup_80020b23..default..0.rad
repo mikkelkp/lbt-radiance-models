@@ -1,0 +1,11 @@
+# STATE 0 for "ApertureGroup_80020b23"
+
+void BSDF clear
+6 0.0 ./model/bsdf/clear.xml 0.01 0.01 1.0 .
+0
+0
+
+clear polygon Aperture_b8d89a19
+0
+0
+12 -24.25 0.5 7.0 -24.25 2.5 7.0 -26.75 2.5 7.0 -26.75 0.5 7.0

@@ -1,0 +1,13 @@
+# VMTX representation for "ApertureGroup_338f2ee7"
+
+void glow white_glow_ApertureGroup_338f2ee7
+0
+0
+4 1.0 1.0 1.0 0.0
+
+#@rfluxmtx h=kf u=0.0,-1.0,0.0
+
+white_glow_ApertureGroup_338f2ee7 polygon Aperture_31cc723c
+0
+0
+12 -59.75 2.5 7.0 -57.25 2.5 7.0 -57.25 0.5 7.0 -59.75 0.5 7.0

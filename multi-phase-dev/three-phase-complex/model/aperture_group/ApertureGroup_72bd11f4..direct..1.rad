@@ -1,0 +1,11 @@
+# STATE 1 for "ApertureGroup_72bd11f4"
+
+void BSDF diffuse50
+6 0.0 ./model/bsdf/diffuse50.xml 0.01 0.01 1.0 .
+0
+0
+
+diffuse50 polygon Aperture_fe88b67c
+0
+0
+12 -62.5 -9.0 1.04898031077 -57.5 -9.0 1.04898031077 -57.5 -9.0 3.54898031077 -62.5 -9.0 3.54898031077

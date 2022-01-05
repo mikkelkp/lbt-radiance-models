@@ -1,37 +1,31 @@
 {
     "light_path": [
         [
-            "ApertureGroup_f061b2e4"
+            "ApertureGroup_f2faa146"
         ], 
         [
-            "ApertureGroup_9ffbe937"
+            "ApertureGroup_8d6795ba"
         ], 
         [
-            "ApertureGroup_f70dbf49"
-        ], 
-        [
-            "ApertureGroup_47a674a2"
+            "ApertureGroup_8c7d86aa"
         ], 
         [
             "static_apertures"
         ], 
         [
-            "ApertureGroup_09afd6dd"
+            "ApertureGroup_af07b43b"
         ], 
         [
-            "ApertureGroup_b9299f38"
+            "ApertureGroup_2838135a"
         ], 
         [
-            "ApertureGroup_54a63ba5"
+            "ApertureGroup_38908a4a"
         ], 
         [
-            "ApertureGroup_b67401b8"
+            "ApertureGroup_aa464a87"
         ], 
         [
-            "ApertureGroup_e6111a63"
-        ], 
-        [
-            "ApertureGroup_5200fec8"
+            "ApertureGroup_2680c3e5"
         ]
     ], 
     "count": 324
