@@ -1,16 +1,16 @@
 {
     "light_path": [
         [
+            "aperture_33"
+        ], 
+        [
+            "aperture_31"
+        ], 
+        [
+            "aperture_32"
+        ], 
+        [
             "static_apertures"
-        ], 
-        [
-            "ApertureGroup_f5c91298"
-        ], 
-        [
-            "ApertureGroup_0f208174"
-        ], 
-        [
-            "ApertureGroup_c5d3d933"
         ]
     ], 
     "count": 72

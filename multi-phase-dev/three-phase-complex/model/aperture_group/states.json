@@ -1,1056 +1,1056 @@
 {
-    "ApertureGroup_e93a68d6": [
+    "aperture_18": [
         {
-            "black": "./ApertureGroup_e93a68d6..black.rad", 
-            "direct": "./ApertureGroup_e93a68d6..direct..0.rad", 
-            "identifier": "0_ApertureGroup_e93a68d6", 
-            "default": "./ApertureGroup_e93a68d6..default..0.rad"
+            "dmtx": "./aperture_18..mtx.rad", 
+            "black": "./aperture_18..black.rad", 
+            "direct": "./aperture_18..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_aperture_18", 
+            "vmtx": "./aperture_18..mtx.rad", 
+            "default": "./aperture_18..default..0.rad"
         }, 
         {
-            "black": "./ApertureGroup_e93a68d6..black.rad", 
-            "direct": "./ApertureGroup_e93a68d6..direct..1.rad", 
-            "identifier": "1_ApertureGroup_e93a68d6", 
-            "default": "./ApertureGroup_e93a68d6..default..1.rad"
+            "dmtx": "./aperture_18..mtx.rad", 
+            "black": "./aperture_18..black.rad", 
+            "direct": "./aperture_18..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_aperture_18", 
+            "vmtx": "./aperture_18..mtx.rad", 
+            "default": "./aperture_18..default..1.rad"
         }
     ], 
-    "ApertureGroup_80020b23": [
+    "aperture_19": [
         {
-            "dmtx": "./ApertureGroup_80020b23..mtx.rad", 
-            "black": "./ApertureGroup_80020b23..black.rad", 
-            "direct": "./ApertureGroup_80020b23..direct..0.rad", 
+            "dmtx": "./aperture_19..mtx.rad", 
+            "black": "./aperture_19..black.rad", 
+            "direct": "./aperture_19..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_80020b23", 
-            "vmtx": "./ApertureGroup_80020b23..mtx.rad", 
-            "default": "./ApertureGroup_80020b23..default..0.rad"
+            "identifier": "0_aperture_19", 
+            "vmtx": "./aperture_19..mtx.rad", 
+            "default": "./aperture_19..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_80020b23..mtx.rad", 
-            "black": "./ApertureGroup_80020b23..black.rad", 
-            "direct": "./ApertureGroup_80020b23..direct..1.rad", 
+            "dmtx": "./aperture_19..mtx.rad", 
+            "black": "./aperture_19..black.rad", 
+            "direct": "./aperture_19..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_80020b23", 
-            "vmtx": "./ApertureGroup_80020b23..mtx.rad", 
-            "default": "./ApertureGroup_80020b23..default..1.rad"
+            "identifier": "1_aperture_19", 
+            "vmtx": "./aperture_19..mtx.rad", 
+            "default": "./aperture_19..default..1.rad"
         }
     ], 
-    "ApertureGroup_c505bc79": [
+    "aperture_10": [
         {
-            "dmtx": "./ApertureGroup_c505bc79..mtx.rad", 
-            "black": "./ApertureGroup_c505bc79..black.rad", 
-            "direct": "./ApertureGroup_c505bc79..direct..0.rad", 
+            "dmtx": "./aperture_10..mtx.rad", 
+            "black": "./aperture_10..black.rad", 
+            "direct": "./aperture_10..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_c505bc79", 
-            "vmtx": "./ApertureGroup_c505bc79..mtx.rad", 
-            "default": "./ApertureGroup_c505bc79..default..0.rad"
+            "identifier": "0_aperture_10", 
+            "vmtx": "./aperture_10..mtx.rad", 
+            "default": "./aperture_10..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_c505bc79..mtx.rad", 
-            "black": "./ApertureGroup_c505bc79..black.rad", 
-            "direct": "./ApertureGroup_c505bc79..direct..1.rad", 
+            "dmtx": "./aperture_10..mtx.rad", 
+            "black": "./aperture_10..black.rad", 
+            "direct": "./aperture_10..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_c505bc79", 
-            "vmtx": "./ApertureGroup_c505bc79..mtx.rad", 
-            "default": "./ApertureGroup_c505bc79..default..1.rad"
+            "identifier": "1_aperture_10", 
+            "vmtx": "./aperture_10..mtx.rad", 
+            "default": "./aperture_10..default..1.rad"
         }
     ], 
-    "ApertureGroup_f2faa146": [
+    "aperture_11": [
         {
-            "dmtx": "./ApertureGroup_f2faa146..mtx.rad", 
-            "black": "./ApertureGroup_f2faa146..black.rad", 
-            "direct": "./ApertureGroup_f2faa146..direct..0.rad", 
+            "dmtx": "./aperture_11..mtx.rad", 
+            "black": "./aperture_11..black.rad", 
+            "direct": "./aperture_11..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_f2faa146", 
-            "vmtx": "./ApertureGroup_f2faa146..mtx.rad", 
-            "default": "./ApertureGroup_f2faa146..default..0.rad"
+            "identifier": "0_aperture_11", 
+            "vmtx": "./aperture_11..mtx.rad", 
+            "default": "./aperture_11..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_f2faa146..mtx.rad", 
-            "black": "./ApertureGroup_f2faa146..black.rad", 
-            "direct": "./ApertureGroup_f2faa146..direct..1.rad", 
+            "dmtx": "./aperture_11..mtx.rad", 
+            "black": "./aperture_11..black.rad", 
+            "direct": "./aperture_11..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_f2faa146", 
-            "vmtx": "./ApertureGroup_f2faa146..mtx.rad", 
-            "default": "./ApertureGroup_f2faa146..default..1.rad"
+            "identifier": "1_aperture_11", 
+            "vmtx": "./aperture_11..mtx.rad", 
+            "default": "./aperture_11..default..1.rad"
         }
     ], 
-    "ApertureGroup_8c7d86aa": [
+    "aperture_12": [
         {
-            "dmtx": "./ApertureGroup_8c7d86aa..mtx.rad", 
-            "black": "./ApertureGroup_8c7d86aa..black.rad", 
-            "direct": "./ApertureGroup_8c7d86aa..direct..0.rad", 
+            "dmtx": "./aperture_12..mtx.rad", 
+            "black": "./aperture_12..black.rad", 
+            "direct": "./aperture_12..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_8c7d86aa", 
-            "vmtx": "./ApertureGroup_8c7d86aa..mtx.rad", 
-            "default": "./ApertureGroup_8c7d86aa..default..0.rad"
+            "identifier": "0_aperture_12", 
+            "vmtx": "./aperture_12..mtx.rad", 
+            "default": "./aperture_12..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_8c7d86aa..mtx.rad", 
-            "black": "./ApertureGroup_8c7d86aa..black.rad", 
-            "direct": "./ApertureGroup_8c7d86aa..direct..1.rad", 
+            "dmtx": "./aperture_12..mtx.rad", 
+            "black": "./aperture_12..black.rad", 
+            "direct": "./aperture_12..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_8c7d86aa", 
-            "vmtx": "./ApertureGroup_8c7d86aa..mtx.rad", 
-            "default": "./ApertureGroup_8c7d86aa..default..1.rad"
+            "identifier": "1_aperture_12", 
+            "vmtx": "./aperture_12..mtx.rad", 
+            "default": "./aperture_12..default..1.rad"
         }
     ], 
-    "ApertureGroup_38908a4a": [
+    "aperture_13": [
         {
-            "dmtx": "./ApertureGroup_38908a4a..mtx.rad", 
-            "black": "./ApertureGroup_38908a4a..black.rad", 
-            "direct": "./ApertureGroup_38908a4a..direct..0.rad", 
+            "dmtx": "./aperture_13..mtx.rad", 
+            "black": "./aperture_13..black.rad", 
+            "direct": "./aperture_13..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_38908a4a", 
-            "vmtx": "./ApertureGroup_38908a4a..mtx.rad", 
-            "default": "./ApertureGroup_38908a4a..default..0.rad"
+            "identifier": "0_aperture_13", 
+            "vmtx": "./aperture_13..mtx.rad", 
+            "default": "./aperture_13..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_38908a4a..mtx.rad", 
-            "black": "./ApertureGroup_38908a4a..black.rad", 
-            "direct": "./ApertureGroup_38908a4a..direct..1.rad", 
+            "dmtx": "./aperture_13..mtx.rad", 
+            "black": "./aperture_13..black.rad", 
+            "direct": "./aperture_13..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_38908a4a", 
-            "vmtx": "./ApertureGroup_38908a4a..mtx.rad", 
-            "default": "./ApertureGroup_38908a4a..default..1.rad"
+            "identifier": "1_aperture_13", 
+            "vmtx": "./aperture_13..mtx.rad", 
+            "default": "./aperture_13..default..1.rad"
         }
     ], 
-    "ApertureGroup_ede74a36": [
+    "aperture_14": [
         {
-            "dmtx": "./ApertureGroup_ede74a36..mtx.rad", 
-            "black": "./ApertureGroup_ede74a36..black.rad", 
-            "direct": "./ApertureGroup_ede74a36..direct..0.rad", 
+            "dmtx": "./aperture_14..mtx.rad", 
+            "black": "./aperture_14..black.rad", 
+            "direct": "./aperture_14..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_ede74a36", 
-            "vmtx": "./ApertureGroup_ede74a36..mtx.rad", 
-            "default": "./ApertureGroup_ede74a36..default..0.rad"
+            "identifier": "0_aperture_14", 
+            "vmtx": "./aperture_14..mtx.rad", 
+            "default": "./aperture_14..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_ede74a36..mtx.rad", 
-            "black": "./ApertureGroup_ede74a36..black.rad", 
-            "direct": "./ApertureGroup_ede74a36..direct..1.rad", 
+            "dmtx": "./aperture_14..mtx.rad", 
+            "black": "./aperture_14..black.rad", 
+            "direct": "./aperture_14..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_ede74a36", 
-            "vmtx": "./ApertureGroup_ede74a36..mtx.rad", 
-            "default": "./ApertureGroup_ede74a36..default..1.rad"
+            "identifier": "1_aperture_14", 
+            "vmtx": "./aperture_14..mtx.rad", 
+            "default": "./aperture_14..default..1.rad"
         }
     ], 
-    "ApertureGroup_e118a0c0": [
+    "aperture_15": [
         {
-            "dmtx": "./ApertureGroup_e118a0c0..mtx.rad", 
-            "black": "./ApertureGroup_e118a0c0..black.rad", 
-            "direct": "./ApertureGroup_e118a0c0..direct..0.rad", 
+            "dmtx": "./aperture_15..mtx.rad", 
+            "black": "./aperture_15..black.rad", 
+            "direct": "./aperture_15..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_e118a0c0", 
-            "vmtx": "./ApertureGroup_e118a0c0..mtx.rad", 
-            "default": "./ApertureGroup_e118a0c0..default..0.rad"
+            "identifier": "0_aperture_15", 
+            "vmtx": "./aperture_15..mtx.rad", 
+            "default": "./aperture_15..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_e118a0c0..mtx.rad", 
-            "black": "./ApertureGroup_e118a0c0..black.rad", 
-            "direct": "./ApertureGroup_e118a0c0..direct..1.rad", 
+            "dmtx": "./aperture_15..mtx.rad", 
+            "black": "./aperture_15..black.rad", 
+            "direct": "./aperture_15..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_e118a0c0", 
-            "vmtx": "./ApertureGroup_e118a0c0..mtx.rad", 
-            "default": "./ApertureGroup_e118a0c0..default..1.rad"
+            "identifier": "1_aperture_15", 
+            "vmtx": "./aperture_15..mtx.rad", 
+            "default": "./aperture_15..default..1.rad"
         }
     ], 
-    "ApertureGroup_804e2b46": [
+    "aperture_16": [
         {
-            "dmtx": "./ApertureGroup_804e2b46..mtx.rad", 
-            "black": "./ApertureGroup_804e2b46..black.rad", 
-            "direct": "./ApertureGroup_804e2b46..direct..0.rad", 
+            "dmtx": "./aperture_16..mtx.rad", 
+            "black": "./aperture_16..black.rad", 
+            "direct": "./aperture_16..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_804e2b46", 
-            "vmtx": "./ApertureGroup_804e2b46..mtx.rad", 
-            "default": "./ApertureGroup_804e2b46..default..0.rad"
+            "identifier": "0_aperture_16", 
+            "vmtx": "./aperture_16..mtx.rad", 
+            "default": "./aperture_16..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_804e2b46..mtx.rad", 
-            "black": "./ApertureGroup_804e2b46..black.rad", 
-            "direct": "./ApertureGroup_804e2b46..direct..1.rad", 
+            "dmtx": "./aperture_16..mtx.rad", 
+            "black": "./aperture_16..black.rad", 
+            "direct": "./aperture_16..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_804e2b46", 
-            "vmtx": "./ApertureGroup_804e2b46..mtx.rad", 
-            "default": "./ApertureGroup_804e2b46..default..1.rad"
+            "identifier": "1_aperture_16", 
+            "vmtx": "./aperture_16..mtx.rad", 
+            "default": "./aperture_16..default..1.rad"
         }
     ], 
-    "ApertureGroup_aa464a87": [
+    "aperture_17": [
         {
-            "dmtx": "./ApertureGroup_aa464a87..mtx.rad", 
-            "black": "./ApertureGroup_aa464a87..black.rad", 
-            "direct": "./ApertureGroup_aa464a87..direct..0.rad", 
+            "dmtx": "./aperture_17..mtx.rad", 
+            "black": "./aperture_17..black.rad", 
+            "direct": "./aperture_17..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_aa464a87", 
-            "vmtx": "./ApertureGroup_aa464a87..mtx.rad", 
-            "default": "./ApertureGroup_aa464a87..default..0.rad"
+            "identifier": "0_aperture_17", 
+            "vmtx": "./aperture_17..mtx.rad", 
+            "default": "./aperture_17..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_aa464a87..mtx.rad", 
-            "black": "./ApertureGroup_aa464a87..black.rad", 
-            "direct": "./ApertureGroup_aa464a87..direct..1.rad", 
+            "dmtx": "./aperture_17..mtx.rad", 
+            "black": "./aperture_17..black.rad", 
+            "direct": "./aperture_17..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_aa464a87", 
-            "vmtx": "./ApertureGroup_aa464a87..mtx.rad", 
-            "default": "./ApertureGroup_aa464a87..default..1.rad"
+            "identifier": "1_aperture_17", 
+            "vmtx": "./aperture_17..mtx.rad", 
+            "default": "./aperture_17..default..1.rad"
         }
     ], 
-    "ApertureGroup_77f3426f": [
+    "aperture_5": [
         {
-            "dmtx": "./ApertureGroup_77f3426f..mtx.rad", 
-            "black": "./ApertureGroup_77f3426f..black.rad", 
-            "direct": "./ApertureGroup_77f3426f..direct..0.rad", 
+            "dmtx": "./aperture_5..mtx.rad", 
+            "black": "./aperture_5..black.rad", 
+            "direct": "./aperture_5..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_77f3426f", 
-            "vmtx": "./ApertureGroup_77f3426f..mtx.rad", 
-            "default": "./ApertureGroup_77f3426f..default..0.rad"
+            "identifier": "0_aperture_5", 
+            "vmtx": "./aperture_5..mtx.rad", 
+            "default": "./aperture_5..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_77f3426f..mtx.rad", 
-            "black": "./ApertureGroup_77f3426f..black.rad", 
-            "direct": "./ApertureGroup_77f3426f..direct..1.rad", 
+            "dmtx": "./aperture_5..mtx.rad", 
+            "black": "./aperture_5..black.rad", 
+            "direct": "./aperture_5..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_77f3426f", 
-            "vmtx": "./ApertureGroup_77f3426f..mtx.rad", 
-            "default": "./ApertureGroup_77f3426f..default..1.rad"
+            "identifier": "1_aperture_5", 
+            "vmtx": "./aperture_5..mtx.rad", 
+            "default": "./aperture_5..default..1.rad"
         }
     ], 
-    "ApertureGroup_88732c34": [
+    "aperture_8": [
         {
-            "dmtx": "./ApertureGroup_88732c34..mtx.rad", 
-            "black": "./ApertureGroup_88732c34..black.rad", 
-            "direct": "./ApertureGroup_88732c34..direct..0.rad", 
+            "dmtx": "./aperture_8..mtx.rad", 
+            "black": "./aperture_8..black.rad", 
+            "direct": "./aperture_8..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_88732c34", 
-            "vmtx": "./ApertureGroup_88732c34..mtx.rad", 
-            "default": "./ApertureGroup_88732c34..default..0.rad"
+            "identifier": "0_aperture_8", 
+            "vmtx": "./aperture_8..mtx.rad", 
+            "default": "./aperture_8..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_88732c34..mtx.rad", 
-            "black": "./ApertureGroup_88732c34..black.rad", 
-            "direct": "./ApertureGroup_88732c34..direct..1.rad", 
+            "dmtx": "./aperture_8..mtx.rad", 
+            "black": "./aperture_8..black.rad", 
+            "direct": "./aperture_8..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_88732c34", 
-            "vmtx": "./ApertureGroup_88732c34..mtx.rad", 
-            "default": "./ApertureGroup_88732c34..default..1.rad"
+            "identifier": "1_aperture_8", 
+            "vmtx": "./aperture_8..mtx.rad", 
+            "default": "./aperture_8..default..1.rad"
         }
     ], 
-    "ApertureGroup_c5d3d933": [
+    "aperture_48": [
         {
-            "dmtx": "./ApertureGroup_c5d3d933..mtx.rad", 
-            "black": "./ApertureGroup_c5d3d933..black.rad", 
-            "direct": "./ApertureGroup_c5d3d933..direct..0.rad", 
+            "dmtx": "./aperture_48..mtx.rad", 
+            "black": "./aperture_48..black.rad", 
+            "direct": "./aperture_48..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_c5d3d933", 
-            "vmtx": "./ApertureGroup_c5d3d933..mtx.rad", 
-            "default": "./ApertureGroup_c5d3d933..default..0.rad"
+            "identifier": "0_aperture_48", 
+            "vmtx": "./aperture_48..mtx.rad", 
+            "default": "./aperture_48..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_c5d3d933..mtx.rad", 
-            "black": "./ApertureGroup_c5d3d933..black.rad", 
-            "direct": "./ApertureGroup_c5d3d933..direct..1.rad", 
+            "dmtx": "./aperture_48..mtx.rad", 
+            "black": "./aperture_48..black.rad", 
+            "direct": "./aperture_48..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_c5d3d933", 
-            "vmtx": "./ApertureGroup_c5d3d933..mtx.rad", 
-            "default": "./ApertureGroup_c5d3d933..default..1.rad"
+            "identifier": "1_aperture_48", 
+            "vmtx": "./aperture_48..mtx.rad", 
+            "default": "./aperture_48..default..1.rad"
         }
     ], 
-    "ApertureGroup_2680c3e5": [
+    "aperture_49": [
         {
-            "dmtx": "./ApertureGroup_2680c3e5..mtx.rad", 
-            "black": "./ApertureGroup_2680c3e5..black.rad", 
-            "direct": "./ApertureGroup_2680c3e5..direct..0.rad", 
+            "dmtx": "./aperture_49..mtx.rad", 
+            "black": "./aperture_49..black.rad", 
+            "direct": "./aperture_49..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_2680c3e5", 
-            "vmtx": "./ApertureGroup_2680c3e5..mtx.rad", 
-            "default": "./ApertureGroup_2680c3e5..default..0.rad"
+            "identifier": "0_aperture_49", 
+            "vmtx": "./aperture_49..mtx.rad", 
+            "default": "./aperture_49..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_2680c3e5..mtx.rad", 
-            "black": "./ApertureGroup_2680c3e5..black.rad", 
-            "direct": "./ApertureGroup_2680c3e5..direct..1.rad", 
+            "dmtx": "./aperture_49..mtx.rad", 
+            "black": "./aperture_49..black.rad", 
+            "direct": "./aperture_49..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_2680c3e5", 
-            "vmtx": "./ApertureGroup_2680c3e5..mtx.rad", 
-            "default": "./ApertureGroup_2680c3e5..default..1.rad"
+            "identifier": "1_aperture_49", 
+            "vmtx": "./aperture_49..mtx.rad", 
+            "default": "./aperture_49..default..1.rad"
         }
     ], 
-    "ApertureGroup_bb4c5296": [
+    "aperture_40": [
         {
-            "dmtx": "./ApertureGroup_bb4c5296..mtx.rad", 
-            "black": "./ApertureGroup_bb4c5296..black.rad", 
-            "direct": "./ApertureGroup_bb4c5296..direct..0.rad", 
+            "dmtx": "./aperture_40..mtx.rad", 
+            "black": "./aperture_40..black.rad", 
+            "direct": "./aperture_40..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_bb4c5296", 
-            "vmtx": "./ApertureGroup_bb4c5296..mtx.rad", 
-            "default": "./ApertureGroup_bb4c5296..default..0.rad"
+            "identifier": "0_aperture_40", 
+            "vmtx": "./aperture_40..mtx.rad", 
+            "default": "./aperture_40..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_bb4c5296..mtx.rad", 
-            "black": "./ApertureGroup_bb4c5296..black.rad", 
-            "direct": "./ApertureGroup_bb4c5296..direct..1.rad", 
+            "dmtx": "./aperture_40..mtx.rad", 
+            "black": "./aperture_40..black.rad", 
+            "direct": "./aperture_40..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_bb4c5296", 
-            "vmtx": "./ApertureGroup_bb4c5296..mtx.rad", 
-            "default": "./ApertureGroup_bb4c5296..default..1.rad"
+            "identifier": "1_aperture_40", 
+            "vmtx": "./aperture_40..mtx.rad", 
+            "default": "./aperture_40..default..1.rad"
         }
     ], 
-    "ApertureGroup_d088757c": [
+    "aperture_41": [
         {
-            "dmtx": "./ApertureGroup_d088757c..mtx.rad", 
-            "black": "./ApertureGroup_d088757c..black.rad", 
-            "direct": "./ApertureGroup_d088757c..direct..0.rad", 
+            "dmtx": "./aperture_41..mtx.rad", 
+            "black": "./aperture_41..black.rad", 
+            "direct": "./aperture_41..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_d088757c", 
-            "vmtx": "./ApertureGroup_d088757c..mtx.rad", 
-            "default": "./ApertureGroup_d088757c..default..0.rad"
+            "identifier": "0_aperture_41", 
+            "vmtx": "./aperture_41..mtx.rad", 
+            "default": "./aperture_41..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_d088757c..mtx.rad", 
-            "black": "./ApertureGroup_d088757c..black.rad", 
-            "direct": "./ApertureGroup_d088757c..direct..1.rad", 
+            "dmtx": "./aperture_41..mtx.rad", 
+            "black": "./aperture_41..black.rad", 
+            "direct": "./aperture_41..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_d088757c", 
-            "vmtx": "./ApertureGroup_d088757c..mtx.rad", 
-            "default": "./ApertureGroup_d088757c..default..1.rad"
+            "identifier": "1_aperture_41", 
+            "vmtx": "./aperture_41..mtx.rad", 
+            "default": "./aperture_41..default..1.rad"
         }
     ], 
-    "ApertureGroup_363f0581": [
+    "aperture_42": [
         {
-            "dmtx": "./ApertureGroup_363f0581..mtx.rad", 
-            "black": "./ApertureGroup_363f0581..black.rad", 
-            "direct": "./ApertureGroup_363f0581..direct..0.rad", 
+            "dmtx": "./aperture_42..mtx.rad", 
+            "black": "./aperture_42..black.rad", 
+            "direct": "./aperture_42..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_363f0581", 
-            "vmtx": "./ApertureGroup_363f0581..mtx.rad", 
-            "default": "./ApertureGroup_363f0581..default..0.rad"
+            "identifier": "0_aperture_42", 
+            "vmtx": "./aperture_42..mtx.rad", 
+            "default": "./aperture_42..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_363f0581..mtx.rad", 
-            "black": "./ApertureGroup_363f0581..black.rad", 
-            "direct": "./ApertureGroup_363f0581..direct..1.rad", 
+            "dmtx": "./aperture_42..mtx.rad", 
+            "black": "./aperture_42..black.rad", 
+            "direct": "./aperture_42..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_363f0581", 
-            "vmtx": "./ApertureGroup_363f0581..mtx.rad", 
-            "default": "./ApertureGroup_363f0581..default..1.rad"
+            "identifier": "1_aperture_42", 
+            "vmtx": "./aperture_42..mtx.rad", 
+            "default": "./aperture_42..default..1.rad"
         }
     ], 
-    "ApertureGroup_af07b43b": [
+    "aperture_43": [
         {
-            "dmtx": "./ApertureGroup_af07b43b..mtx.rad", 
-            "black": "./ApertureGroup_af07b43b..black.rad", 
-            "direct": "./ApertureGroup_af07b43b..direct..0.rad", 
+            "dmtx": "./aperture_43..mtx.rad", 
+            "black": "./aperture_43..black.rad", 
+            "direct": "./aperture_43..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_af07b43b", 
-            "vmtx": "./ApertureGroup_af07b43b..mtx.rad", 
-            "default": "./ApertureGroup_af07b43b..default..0.rad"
+            "identifier": "0_aperture_43", 
+            "vmtx": "./aperture_43..mtx.rad", 
+            "default": "./aperture_43..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_af07b43b..mtx.rad", 
-            "black": "./ApertureGroup_af07b43b..black.rad", 
-            "direct": "./ApertureGroup_af07b43b..direct..1.rad", 
+            "dmtx": "./aperture_43..mtx.rad", 
+            "black": "./aperture_43..black.rad", 
+            "direct": "./aperture_43..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_af07b43b", 
-            "vmtx": "./ApertureGroup_af07b43b..mtx.rad", 
-            "default": "./ApertureGroup_af07b43b..default..1.rad"
+            "identifier": "1_aperture_43", 
+            "vmtx": "./aperture_43..mtx.rad", 
+            "default": "./aperture_43..default..1.rad"
         }
     ], 
-    "ApertureGroup_9f893e09": [
+    "aperture_44": [
         {
-            "dmtx": "./ApertureGroup_9f893e09..mtx.rad", 
-            "black": "./ApertureGroup_9f893e09..black.rad", 
-            "direct": "./ApertureGroup_9f893e09..direct..0.rad", 
+            "dmtx": "./aperture_44..mtx.rad", 
+            "black": "./aperture_44..black.rad", 
+            "direct": "./aperture_44..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_9f893e09", 
-            "vmtx": "./ApertureGroup_9f893e09..mtx.rad", 
-            "default": "./ApertureGroup_9f893e09..default..0.rad"
+            "identifier": "0_aperture_44", 
+            "vmtx": "./aperture_44..mtx.rad", 
+            "default": "./aperture_44..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_9f893e09..mtx.rad", 
-            "black": "./ApertureGroup_9f893e09..black.rad", 
-            "direct": "./ApertureGroup_9f893e09..direct..1.rad", 
+            "dmtx": "./aperture_44..mtx.rad", 
+            "black": "./aperture_44..black.rad", 
+            "direct": "./aperture_44..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_9f893e09", 
-            "vmtx": "./ApertureGroup_9f893e09..mtx.rad", 
-            "default": "./ApertureGroup_9f893e09..default..1.rad"
+            "identifier": "1_aperture_44", 
+            "vmtx": "./aperture_44..mtx.rad", 
+            "default": "./aperture_44..default..1.rad"
         }
     ], 
-    "ApertureGroup_282e8590": [
+    "aperture_45": [
         {
-            "dmtx": "./ApertureGroup_282e8590..mtx.rad", 
-            "black": "./ApertureGroup_282e8590..black.rad", 
-            "direct": "./ApertureGroup_282e8590..direct..0.rad", 
+            "dmtx": "./aperture_45..mtx.rad", 
+            "black": "./aperture_45..black.rad", 
+            "direct": "./aperture_45..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_282e8590", 
-            "vmtx": "./ApertureGroup_282e8590..mtx.rad", 
-            "default": "./ApertureGroup_282e8590..default..0.rad"
+            "identifier": "0_aperture_45", 
+            "vmtx": "./aperture_45..mtx.rad", 
+            "default": "./aperture_45..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_282e8590..mtx.rad", 
-            "black": "./ApertureGroup_282e8590..black.rad", 
-            "direct": "./ApertureGroup_282e8590..direct..1.rad", 
+            "dmtx": "./aperture_45..mtx.rad", 
+            "black": "./aperture_45..black.rad", 
+            "direct": "./aperture_45..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_282e8590", 
-            "vmtx": "./ApertureGroup_282e8590..mtx.rad", 
-            "default": "./ApertureGroup_282e8590..default..1.rad"
+            "identifier": "1_aperture_45", 
+            "vmtx": "./aperture_45..mtx.rad", 
+            "default": "./aperture_45..default..1.rad"
         }
     ], 
-    "ApertureGroup_c90db82c": [
+    "aperture_46": [
         {
-            "dmtx": "./ApertureGroup_c90db82c..mtx.rad", 
-            "black": "./ApertureGroup_c90db82c..black.rad", 
-            "direct": "./ApertureGroup_c90db82c..direct..0.rad", 
+            "dmtx": "./aperture_46..mtx.rad", 
+            "black": "./aperture_46..black.rad", 
+            "direct": "./aperture_46..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_c90db82c", 
-            "vmtx": "./ApertureGroup_c90db82c..mtx.rad", 
-            "default": "./ApertureGroup_c90db82c..default..0.rad"
+            "identifier": "0_aperture_46", 
+            "vmtx": "./aperture_46..mtx.rad", 
+            "default": "./aperture_46..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_c90db82c..mtx.rad", 
-            "black": "./ApertureGroup_c90db82c..black.rad", 
-            "direct": "./ApertureGroup_c90db82c..direct..1.rad", 
+            "dmtx": "./aperture_46..mtx.rad", 
+            "black": "./aperture_46..black.rad", 
+            "direct": "./aperture_46..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_c90db82c", 
-            "vmtx": "./ApertureGroup_c90db82c..mtx.rad", 
-            "default": "./ApertureGroup_c90db82c..default..1.rad"
+            "identifier": "1_aperture_46", 
+            "vmtx": "./aperture_46..mtx.rad", 
+            "default": "./aperture_46..default..1.rad"
         }
     ], 
-    "ApertureGroup_d905ebc0": [
+    "aperture_47": [
         {
-            "dmtx": "./ApertureGroup_d905ebc0..mtx.rad", 
-            "black": "./ApertureGroup_d905ebc0..black.rad", 
-            "direct": "./ApertureGroup_d905ebc0..direct..0.rad", 
+            "dmtx": "./aperture_47..mtx.rad", 
+            "black": "./aperture_47..black.rad", 
+            "direct": "./aperture_47..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_d905ebc0", 
-            "vmtx": "./ApertureGroup_d905ebc0..mtx.rad", 
-            "default": "./ApertureGroup_d905ebc0..default..0.rad"
+            "identifier": "0_aperture_47", 
+            "vmtx": "./aperture_47..mtx.rad", 
+            "default": "./aperture_47..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_d905ebc0..mtx.rad", 
-            "black": "./ApertureGroup_d905ebc0..black.rad", 
-            "direct": "./ApertureGroup_d905ebc0..direct..1.rad", 
+            "dmtx": "./aperture_47..mtx.rad", 
+            "black": "./aperture_47..black.rad", 
+            "direct": "./aperture_47..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_d905ebc0", 
-            "vmtx": "./ApertureGroup_d905ebc0..mtx.rad", 
-            "default": "./ApertureGroup_d905ebc0..default..1.rad"
+            "identifier": "1_aperture_47", 
+            "vmtx": "./aperture_47..mtx.rad", 
+            "default": "./aperture_47..default..1.rad"
         }
     ], 
-    "ApertureGroup_75344537": [
+    "aperture_3": [
         {
-            "dmtx": "./ApertureGroup_75344537..mtx.rad", 
-            "black": "./ApertureGroup_75344537..black.rad", 
-            "direct": "./ApertureGroup_75344537..direct..0.rad", 
+            "dmtx": "./aperture_3..mtx.rad", 
+            "black": "./aperture_3..black.rad", 
+            "direct": "./aperture_3..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_75344537", 
-            "vmtx": "./ApertureGroup_75344537..mtx.rad", 
-            "default": "./ApertureGroup_75344537..default..0.rad"
+            "identifier": "0_aperture_3", 
+            "vmtx": "./aperture_3..mtx.rad", 
+            "default": "./aperture_3..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_75344537..mtx.rad", 
-            "black": "./ApertureGroup_75344537..black.rad", 
-            "direct": "./ApertureGroup_75344537..direct..1.rad", 
+            "dmtx": "./aperture_3..mtx.rad", 
+            "black": "./aperture_3..black.rad", 
+            "direct": "./aperture_3..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_75344537", 
-            "vmtx": "./ApertureGroup_75344537..mtx.rad", 
-            "default": "./ApertureGroup_75344537..default..1.rad"
+            "identifier": "1_aperture_3", 
+            "vmtx": "./aperture_3..mtx.rad", 
+            "default": "./aperture_3..default..1.rad"
         }
     ], 
-    "ApertureGroup_8d6795ba": [
+    "aperture_28": [
         {
-            "dmtx": "./ApertureGroup_8d6795ba..mtx.rad", 
-            "black": "./ApertureGroup_8d6795ba..black.rad", 
-            "direct": "./ApertureGroup_8d6795ba..direct..0.rad", 
+            "dmtx": "./aperture_28..mtx.rad", 
+            "black": "./aperture_28..black.rad", 
+            "direct": "./aperture_28..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_8d6795ba", 
-            "vmtx": "./ApertureGroup_8d6795ba..mtx.rad", 
-            "default": "./ApertureGroup_8d6795ba..default..0.rad"
+            "identifier": "0_aperture_28", 
+            "vmtx": "./aperture_28..mtx.rad", 
+            "default": "./aperture_28..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_8d6795ba..mtx.rad", 
-            "black": "./ApertureGroup_8d6795ba..black.rad", 
-            "direct": "./ApertureGroup_8d6795ba..direct..1.rad", 
+            "dmtx": "./aperture_28..mtx.rad", 
+            "black": "./aperture_28..black.rad", 
+            "direct": "./aperture_28..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_8d6795ba", 
-            "vmtx": "./ApertureGroup_8d6795ba..mtx.rad", 
-            "default": "./ApertureGroup_8d6795ba..default..1.rad"
+            "identifier": "1_aperture_28", 
+            "vmtx": "./aperture_28..mtx.rad", 
+            "default": "./aperture_28..default..1.rad"
         }
     ], 
-    "ApertureGroup_4ef1ec3d": [
+    "aperture_29": [
         {
-            "dmtx": "./ApertureGroup_4ef1ec3d..mtx.rad", 
-            "black": "./ApertureGroup_4ef1ec3d..black.rad", 
-            "direct": "./ApertureGroup_4ef1ec3d..direct..0.rad", 
+            "dmtx": "./aperture_29..mtx.rad", 
+            "black": "./aperture_29..black.rad", 
+            "direct": "./aperture_29..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_4ef1ec3d", 
-            "vmtx": "./ApertureGroup_4ef1ec3d..mtx.rad", 
-            "default": "./ApertureGroup_4ef1ec3d..default..0.rad"
+            "identifier": "0_aperture_29", 
+            "vmtx": "./aperture_29..mtx.rad", 
+            "default": "./aperture_29..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_4ef1ec3d..mtx.rad", 
-            "black": "./ApertureGroup_4ef1ec3d..black.rad", 
-            "direct": "./ApertureGroup_4ef1ec3d..direct..1.rad", 
+            "dmtx": "./aperture_29..mtx.rad", 
+            "black": "./aperture_29..black.rad", 
+            "direct": "./aperture_29..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_4ef1ec3d", 
-            "vmtx": "./ApertureGroup_4ef1ec3d..mtx.rad", 
-            "default": "./ApertureGroup_4ef1ec3d..default..1.rad"
+            "identifier": "1_aperture_29", 
+            "vmtx": "./aperture_29..mtx.rad", 
+            "default": "./aperture_29..default..1.rad"
         }
     ], 
-    "ApertureGroup_d6a1377c": [
+    "aperture_20": [
         {
-            "dmtx": "./ApertureGroup_d6a1377c..mtx.rad", 
-            "black": "./ApertureGroup_d6a1377c..black.rad", 
-            "direct": "./ApertureGroup_d6a1377c..direct..0.rad", 
+            "dmtx": "./aperture_20..mtx.rad", 
+            "black": "./aperture_20..black.rad", 
+            "direct": "./aperture_20..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_d6a1377c", 
-            "vmtx": "./ApertureGroup_d6a1377c..mtx.rad", 
-            "default": "./ApertureGroup_d6a1377c..default..0.rad"
+            "identifier": "0_aperture_20", 
+            "vmtx": "./aperture_20..mtx.rad", 
+            "default": "./aperture_20..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_d6a1377c..mtx.rad", 
-            "black": "./ApertureGroup_d6a1377c..black.rad", 
-            "direct": "./ApertureGroup_d6a1377c..direct..1.rad", 
+            "dmtx": "./aperture_20..mtx.rad", 
+            "black": "./aperture_20..black.rad", 
+            "direct": "./aperture_20..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_d6a1377c", 
-            "vmtx": "./ApertureGroup_d6a1377c..mtx.rad", 
-            "default": "./ApertureGroup_d6a1377c..default..1.rad"
+            "identifier": "1_aperture_20", 
+            "vmtx": "./aperture_20..mtx.rad", 
+            "default": "./aperture_20..default..1.rad"
         }
     ], 
-    "ApertureGroup_72bd11f4": [
+    "aperture_21": [
         {
-            "dmtx": "./ApertureGroup_72bd11f4..mtx.rad", 
-            "black": "./ApertureGroup_72bd11f4..black.rad", 
-            "direct": "./ApertureGroup_72bd11f4..direct..0.rad", 
+            "dmtx": "./aperture_21..mtx.rad", 
+            "black": "./aperture_21..black.rad", 
+            "direct": "./aperture_21..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_72bd11f4", 
-            "vmtx": "./ApertureGroup_72bd11f4..mtx.rad", 
-            "default": "./ApertureGroup_72bd11f4..default..0.rad"
+            "identifier": "0_aperture_21", 
+            "vmtx": "./aperture_21..mtx.rad", 
+            "default": "./aperture_21..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_72bd11f4..mtx.rad", 
-            "black": "./ApertureGroup_72bd11f4..black.rad", 
-            "direct": "./ApertureGroup_72bd11f4..direct..1.rad", 
+            "dmtx": "./aperture_21..mtx.rad", 
+            "black": "./aperture_21..black.rad", 
+            "direct": "./aperture_21..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_72bd11f4", 
-            "vmtx": "./ApertureGroup_72bd11f4..mtx.rad", 
-            "default": "./ApertureGroup_72bd11f4..default..1.rad"
+            "identifier": "1_aperture_21", 
+            "vmtx": "./aperture_21..mtx.rad", 
+            "default": "./aperture_21..default..1.rad"
         }
     ], 
-    "ApertureGroup_6456d22a": [
+    "aperture_22": [
         {
-            "dmtx": "./ApertureGroup_6456d22a..mtx.rad", 
-            "black": "./ApertureGroup_6456d22a..black.rad", 
-            "direct": "./ApertureGroup_6456d22a..direct..0.rad", 
+            "dmtx": "./aperture_22..mtx.rad", 
+            "black": "./aperture_22..black.rad", 
+            "direct": "./aperture_22..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_6456d22a", 
-            "vmtx": "./ApertureGroup_6456d22a..mtx.rad", 
-            "default": "./ApertureGroup_6456d22a..default..0.rad"
+            "identifier": "0_aperture_22", 
+            "vmtx": "./aperture_22..mtx.rad", 
+            "default": "./aperture_22..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_6456d22a..mtx.rad", 
-            "black": "./ApertureGroup_6456d22a..black.rad", 
-            "direct": "./ApertureGroup_6456d22a..direct..1.rad", 
+            "dmtx": "./aperture_22..mtx.rad", 
+            "black": "./aperture_22..black.rad", 
+            "direct": "./aperture_22..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_6456d22a", 
-            "vmtx": "./ApertureGroup_6456d22a..mtx.rad", 
-            "default": "./ApertureGroup_6456d22a..default..1.rad"
+            "identifier": "1_aperture_22", 
+            "vmtx": "./aperture_22..mtx.rad", 
+            "default": "./aperture_22..default..1.rad"
         }
     ], 
-    "ApertureGroup_2838135a": [
+    "aperture_23": [
         {
-            "dmtx": "./ApertureGroup_2838135a..mtx.rad", 
-            "black": "./ApertureGroup_2838135a..black.rad", 
-            "direct": "./ApertureGroup_2838135a..direct..0.rad", 
+            "dmtx": "./aperture_23..mtx.rad", 
+            "black": "./aperture_23..black.rad", 
+            "direct": "./aperture_23..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_2838135a", 
-            "vmtx": "./ApertureGroup_2838135a..mtx.rad", 
-            "default": "./ApertureGroup_2838135a..default..0.rad"
+            "identifier": "0_aperture_23", 
+            "vmtx": "./aperture_23..mtx.rad", 
+            "default": "./aperture_23..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_2838135a..mtx.rad", 
-            "black": "./ApertureGroup_2838135a..black.rad", 
-            "direct": "./ApertureGroup_2838135a..direct..1.rad", 
+            "dmtx": "./aperture_23..mtx.rad", 
+            "black": "./aperture_23..black.rad", 
+            "direct": "./aperture_23..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_2838135a", 
-            "vmtx": "./ApertureGroup_2838135a..mtx.rad", 
-            "default": "./ApertureGroup_2838135a..default..1.rad"
+            "identifier": "1_aperture_23", 
+            "vmtx": "./aperture_23..mtx.rad", 
+            "default": "./aperture_23..default..1.rad"
         }
     ], 
-    "ApertureGroup_77bea534": [
+    "aperture_24": [
         {
-            "dmtx": "./ApertureGroup_77bea534..mtx.rad", 
-            "black": "./ApertureGroup_77bea534..black.rad", 
-            "direct": "./ApertureGroup_77bea534..direct..0.rad", 
+            "dmtx": "./aperture_24..mtx.rad", 
+            "black": "./aperture_24..black.rad", 
+            "direct": "./aperture_24..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_77bea534", 
-            "vmtx": "./ApertureGroup_77bea534..mtx.rad", 
-            "default": "./ApertureGroup_77bea534..default..0.rad"
+            "identifier": "0_aperture_24", 
+            "vmtx": "./aperture_24..mtx.rad", 
+            "default": "./aperture_24..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_77bea534..mtx.rad", 
-            "black": "./ApertureGroup_77bea534..black.rad", 
-            "direct": "./ApertureGroup_77bea534..direct..1.rad", 
+            "dmtx": "./aperture_24..mtx.rad", 
+            "black": "./aperture_24..black.rad", 
+            "direct": "./aperture_24..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_77bea534", 
-            "vmtx": "./ApertureGroup_77bea534..mtx.rad", 
-            "default": "./ApertureGroup_77bea534..default..1.rad"
+            "identifier": "1_aperture_24", 
+            "vmtx": "./aperture_24..mtx.rad", 
+            "default": "./aperture_24..default..1.rad"
         }
     ], 
-    "ApertureGroup_dfad29ba": [
+    "aperture_25": [
         {
-            "dmtx": "./ApertureGroup_dfad29ba..mtx.rad", 
-            "black": "./ApertureGroup_dfad29ba..black.rad", 
-            "direct": "./ApertureGroup_dfad29ba..direct..0.rad", 
+            "dmtx": "./aperture_25..mtx.rad", 
+            "black": "./aperture_25..black.rad", 
+            "direct": "./aperture_25..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_dfad29ba", 
-            "vmtx": "./ApertureGroup_dfad29ba..mtx.rad", 
-            "default": "./ApertureGroup_dfad29ba..default..0.rad"
+            "identifier": "0_aperture_25", 
+            "vmtx": "./aperture_25..mtx.rad", 
+            "default": "./aperture_25..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_dfad29ba..mtx.rad", 
-            "black": "./ApertureGroup_dfad29ba..black.rad", 
-            "direct": "./ApertureGroup_dfad29ba..direct..1.rad", 
+            "dmtx": "./aperture_25..mtx.rad", 
+            "black": "./aperture_25..black.rad", 
+            "direct": "./aperture_25..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_dfad29ba", 
-            "vmtx": "./ApertureGroup_dfad29ba..mtx.rad", 
-            "default": "./ApertureGroup_dfad29ba..default..1.rad"
+            "identifier": "1_aperture_25", 
+            "vmtx": "./aperture_25..mtx.rad", 
+            "default": "./aperture_25..default..1.rad"
         }
     ], 
-    "ApertureGroup_0f208174": [
+    "aperture_6": [
         {
-            "dmtx": "./ApertureGroup_0f208174..mtx.rad", 
-            "black": "./ApertureGroup_0f208174..black.rad", 
-            "direct": "./ApertureGroup_0f208174..direct..0.rad", 
+            "dmtx": "./aperture_6..mtx.rad", 
+            "black": "./aperture_6..black.rad", 
+            "direct": "./aperture_6..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_0f208174", 
-            "vmtx": "./ApertureGroup_0f208174..mtx.rad", 
-            "default": "./ApertureGroup_0f208174..default..0.rad"
+            "identifier": "0_aperture_6", 
+            "vmtx": "./aperture_6..mtx.rad", 
+            "default": "./aperture_6..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_0f208174..mtx.rad", 
-            "black": "./ApertureGroup_0f208174..black.rad", 
-            "direct": "./ApertureGroup_0f208174..direct..1.rad", 
+            "dmtx": "./aperture_6..mtx.rad", 
+            "black": "./aperture_6..black.rad", 
+            "direct": "./aperture_6..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_0f208174", 
-            "vmtx": "./ApertureGroup_0f208174..mtx.rad", 
-            "default": "./ApertureGroup_0f208174..default..1.rad"
+            "identifier": "1_aperture_6", 
+            "vmtx": "./aperture_6..mtx.rad", 
+            "default": "./aperture_6..default..1.rad"
         }
     ], 
-    "ApertureGroup_26341909": [
+    "aperture_26": [
         {
-            "dmtx": "./ApertureGroup_26341909..mtx.rad", 
-            "black": "./ApertureGroup_26341909..black.rad", 
-            "direct": "./ApertureGroup_26341909..direct..0.rad", 
+            "dmtx": "./aperture_26..mtx.rad", 
+            "black": "./aperture_26..black.rad", 
+            "direct": "./aperture_26..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_26341909", 
-            "vmtx": "./ApertureGroup_26341909..mtx.rad", 
-            "default": "./ApertureGroup_26341909..default..0.rad"
+            "identifier": "0_aperture_26", 
+            "vmtx": "./aperture_26..mtx.rad", 
+            "default": "./aperture_26..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_26341909..mtx.rad", 
-            "black": "./ApertureGroup_26341909..black.rad", 
-            "direct": "./ApertureGroup_26341909..direct..1.rad", 
+            "dmtx": "./aperture_26..mtx.rad", 
+            "black": "./aperture_26..black.rad", 
+            "direct": "./aperture_26..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_26341909", 
-            "vmtx": "./ApertureGroup_26341909..mtx.rad", 
-            "default": "./ApertureGroup_26341909..default..1.rad"
+            "identifier": "1_aperture_26", 
+            "vmtx": "./aperture_26..mtx.rad", 
+            "default": "./aperture_26..default..1.rad"
         }
     ], 
-    "ApertureGroup_7de2141d": [
+    "aperture_27": [
         {
-            "dmtx": "./ApertureGroup_7de2141d..mtx.rad", 
-            "black": "./ApertureGroup_7de2141d..black.rad", 
-            "direct": "./ApertureGroup_7de2141d..direct..0.rad", 
+            "dmtx": "./aperture_27..mtx.rad", 
+            "black": "./aperture_27..black.rad", 
+            "direct": "./aperture_27..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_7de2141d", 
-            "vmtx": "./ApertureGroup_7de2141d..mtx.rad", 
-            "default": "./ApertureGroup_7de2141d..default..0.rad"
+            "identifier": "0_aperture_27", 
+            "vmtx": "./aperture_27..mtx.rad", 
+            "default": "./aperture_27..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_7de2141d..mtx.rad", 
-            "black": "./ApertureGroup_7de2141d..black.rad", 
-            "direct": "./ApertureGroup_7de2141d..direct..1.rad", 
+            "dmtx": "./aperture_27..mtx.rad", 
+            "black": "./aperture_27..black.rad", 
+            "direct": "./aperture_27..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_7de2141d", 
-            "vmtx": "./ApertureGroup_7de2141d..mtx.rad", 
-            "default": "./ApertureGroup_7de2141d..default..1.rad"
+            "identifier": "1_aperture_27", 
+            "vmtx": "./aperture_27..mtx.rad", 
+            "default": "./aperture_27..default..1.rad"
         }
     ], 
-    "ApertureGroup_f5c91298": [
+    "aperture_9": [
         {
-            "dmtx": "./ApertureGroup_f5c91298..mtx.rad", 
-            "black": "./ApertureGroup_f5c91298..black.rad", 
-            "direct": "./ApertureGroup_f5c91298..direct..0.rad", 
+            "dmtx": "./aperture_9..mtx.rad", 
+            "black": "./aperture_9..black.rad", 
+            "direct": "./aperture_9..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_f5c91298", 
-            "vmtx": "./ApertureGroup_f5c91298..mtx.rad", 
-            "default": "./ApertureGroup_f5c91298..default..0.rad"
+            "identifier": "0_aperture_9", 
+            "vmtx": "./aperture_9..mtx.rad", 
+            "default": "./aperture_9..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_f5c91298..mtx.rad", 
-            "black": "./ApertureGroup_f5c91298..black.rad", 
-            "direct": "./ApertureGroup_f5c91298..direct..1.rad", 
+            "dmtx": "./aperture_9..mtx.rad", 
+            "black": "./aperture_9..black.rad", 
+            "direct": "./aperture_9..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_f5c91298", 
-            "vmtx": "./ApertureGroup_f5c91298..mtx.rad", 
-            "default": "./ApertureGroup_f5c91298..default..1.rad"
+            "identifier": "1_aperture_9", 
+            "vmtx": "./aperture_9..mtx.rad", 
+            "default": "./aperture_9..default..1.rad"
         }
     ], 
-    "ApertureGroup_c3161ec1": [
+    "aperture_1": [
         {
-            "dmtx": "./ApertureGroup_c3161ec1..mtx.rad", 
-            "black": "./ApertureGroup_c3161ec1..black.rad", 
-            "direct": "./ApertureGroup_c3161ec1..direct..0.rad", 
+            "dmtx": "./aperture_1..mtx.rad", 
+            "black": "./aperture_1..black.rad", 
+            "direct": "./aperture_1..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_c3161ec1", 
-            "vmtx": "./ApertureGroup_c3161ec1..mtx.rad", 
-            "default": "./ApertureGroup_c3161ec1..default..0.rad"
+            "identifier": "0_aperture_1", 
+            "vmtx": "./aperture_1..mtx.rad", 
+            "default": "./aperture_1..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_c3161ec1..mtx.rad", 
-            "black": "./ApertureGroup_c3161ec1..black.rad", 
-            "direct": "./ApertureGroup_c3161ec1..direct..1.rad", 
+            "dmtx": "./aperture_1..mtx.rad", 
+            "black": "./aperture_1..black.rad", 
+            "direct": "./aperture_1..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_c3161ec1", 
-            "vmtx": "./ApertureGroup_c3161ec1..mtx.rad", 
-            "default": "./ApertureGroup_c3161ec1..default..1.rad"
+            "identifier": "1_aperture_1", 
+            "vmtx": "./aperture_1..mtx.rad", 
+            "default": "./aperture_1..default..1.rad"
         }
     ], 
-    "ApertureGroup_5b0a3ca8": [
+    "aperture_50": [
         {
-            "dmtx": "./ApertureGroup_5b0a3ca8..mtx.rad", 
-            "black": "./ApertureGroup_5b0a3ca8..black.rad", 
-            "direct": "./ApertureGroup_5b0a3ca8..direct..0.rad", 
+            "dmtx": "./aperture_50..mtx.rad", 
+            "black": "./aperture_50..black.rad", 
+            "direct": "./aperture_50..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_5b0a3ca8", 
-            "vmtx": "./ApertureGroup_5b0a3ca8..mtx.rad", 
-            "default": "./ApertureGroup_5b0a3ca8..default..0.rad"
+            "identifier": "0_aperture_50", 
+            "vmtx": "./aperture_50..mtx.rad", 
+            "default": "./aperture_50..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_5b0a3ca8..mtx.rad", 
-            "black": "./ApertureGroup_5b0a3ca8..black.rad", 
-            "direct": "./ApertureGroup_5b0a3ca8..direct..1.rad", 
+            "dmtx": "./aperture_50..mtx.rad", 
+            "black": "./aperture_50..black.rad", 
+            "direct": "./aperture_50..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_5b0a3ca8", 
-            "vmtx": "./ApertureGroup_5b0a3ca8..mtx.rad", 
-            "default": "./ApertureGroup_5b0a3ca8..default..1.rad"
+            "identifier": "1_aperture_50", 
+            "vmtx": "./aperture_50..mtx.rad", 
+            "default": "./aperture_50..default..1.rad"
         }
     ], 
-    "ApertureGroup_4a3280a6": [
+    "aperture_51": [
         {
-            "dmtx": "./ApertureGroup_4a3280a6..mtx.rad", 
-            "black": "./ApertureGroup_4a3280a6..black.rad", 
-            "direct": "./ApertureGroup_4a3280a6..direct..0.rad", 
+            "dmtx": "./aperture_51..mtx.rad", 
+            "black": "./aperture_51..black.rad", 
+            "direct": "./aperture_51..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_4a3280a6", 
-            "vmtx": "./ApertureGroup_4a3280a6..mtx.rad", 
-            "default": "./ApertureGroup_4a3280a6..default..0.rad"
+            "identifier": "0_aperture_51", 
+            "vmtx": "./aperture_51..mtx.rad", 
+            "default": "./aperture_51..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_4a3280a6..mtx.rad", 
-            "black": "./ApertureGroup_4a3280a6..black.rad", 
-            "direct": "./ApertureGroup_4a3280a6..direct..1.rad", 
+            "dmtx": "./aperture_51..mtx.rad", 
+            "black": "./aperture_51..black.rad", 
+            "direct": "./aperture_51..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_4a3280a6", 
-            "vmtx": "./ApertureGroup_4a3280a6..mtx.rad", 
-            "default": "./ApertureGroup_4a3280a6..default..1.rad"
+            "identifier": "1_aperture_51", 
+            "vmtx": "./aperture_51..mtx.rad", 
+            "default": "./aperture_51..default..1.rad"
         }
     ], 
-    "ApertureGroup_51f17c1b": [
+    "aperture_52": [
         {
-            "dmtx": "./ApertureGroup_51f17c1b..mtx.rad", 
-            "black": "./ApertureGroup_51f17c1b..black.rad", 
-            "direct": "./ApertureGroup_51f17c1b..direct..0.rad", 
+            "dmtx": "./aperture_52..mtx.rad", 
+            "black": "./aperture_52..black.rad", 
+            "direct": "./aperture_52..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_51f17c1b", 
-            "vmtx": "./ApertureGroup_51f17c1b..mtx.rad", 
-            "default": "./ApertureGroup_51f17c1b..default..0.rad"
+            "identifier": "0_aperture_52", 
+            "vmtx": "./aperture_52..mtx.rad", 
+            "default": "./aperture_52..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_51f17c1b..mtx.rad", 
-            "black": "./ApertureGroup_51f17c1b..black.rad", 
-            "direct": "./ApertureGroup_51f17c1b..direct..1.rad", 
+            "dmtx": "./aperture_52..mtx.rad", 
+            "black": "./aperture_52..black.rad", 
+            "direct": "./aperture_52..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_51f17c1b", 
-            "vmtx": "./ApertureGroup_51f17c1b..mtx.rad", 
-            "default": "./ApertureGroup_51f17c1b..default..1.rad"
+            "identifier": "1_aperture_52", 
+            "vmtx": "./aperture_52..mtx.rad", 
+            "default": "./aperture_52..default..1.rad"
         }
     ], 
-    "ApertureGroup_a50e9e0e": [
+    "aperture_4": [
         {
-            "dmtx": "./ApertureGroup_a50e9e0e..mtx.rad", 
-            "black": "./ApertureGroup_a50e9e0e..black.rad", 
-            "direct": "./ApertureGroup_a50e9e0e..direct..0.rad", 
+            "dmtx": "./aperture_4..mtx.rad", 
+            "black": "./aperture_4..black.rad", 
+            "direct": "./aperture_4..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_a50e9e0e", 
-            "vmtx": "./ApertureGroup_a50e9e0e..mtx.rad", 
-            "default": "./ApertureGroup_a50e9e0e..default..0.rad"
+            "identifier": "0_aperture_4", 
+            "vmtx": "./aperture_4..mtx.rad", 
+            "default": "./aperture_4..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_a50e9e0e..mtx.rad", 
-            "black": "./ApertureGroup_a50e9e0e..black.rad", 
-            "direct": "./ApertureGroup_a50e9e0e..direct..1.rad", 
+            "dmtx": "./aperture_4..mtx.rad", 
+            "black": "./aperture_4..black.rad", 
+            "direct": "./aperture_4..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_a50e9e0e", 
-            "vmtx": "./ApertureGroup_a50e9e0e..mtx.rad", 
-            "default": "./ApertureGroup_a50e9e0e..default..1.rad"
+            "identifier": "1_aperture_4", 
+            "vmtx": "./aperture_4..mtx.rad", 
+            "default": "./aperture_4..default..1.rad"
         }
     ], 
-    "ApertureGroup_00f8633a": [
+    "aperture_38": [
         {
-            "dmtx": "./ApertureGroup_00f8633a..mtx.rad", 
-            "black": "./ApertureGroup_00f8633a..black.rad", 
-            "direct": "./ApertureGroup_00f8633a..direct..0.rad", 
+            "dmtx": "./aperture_38..mtx.rad", 
+            "black": "./aperture_38..black.rad", 
+            "direct": "./aperture_38..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_00f8633a", 
-            "vmtx": "./ApertureGroup_00f8633a..mtx.rad", 
-            "default": "./ApertureGroup_00f8633a..default..0.rad"
+            "identifier": "0_aperture_38", 
+            "vmtx": "./aperture_38..mtx.rad", 
+            "default": "./aperture_38..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_00f8633a..mtx.rad", 
-            "black": "./ApertureGroup_00f8633a..black.rad", 
-            "direct": "./ApertureGroup_00f8633a..direct..1.rad", 
+            "dmtx": "./aperture_38..mtx.rad", 
+            "black": "./aperture_38..black.rad", 
+            "direct": "./aperture_38..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_00f8633a", 
-            "vmtx": "./ApertureGroup_00f8633a..mtx.rad", 
-            "default": "./ApertureGroup_00f8633a..default..1.rad"
+            "identifier": "1_aperture_38", 
+            "vmtx": "./aperture_38..mtx.rad", 
+            "default": "./aperture_38..default..1.rad"
         }
     ], 
-    "ApertureGroup_338f2ee7": [
+    "aperture_39": [
         {
-            "dmtx": "./ApertureGroup_338f2ee7..mtx.rad", 
-            "black": "./ApertureGroup_338f2ee7..black.rad", 
-            "direct": "./ApertureGroup_338f2ee7..direct..0.rad", 
+            "dmtx": "./aperture_39..mtx.rad", 
+            "black": "./aperture_39..black.rad", 
+            "direct": "./aperture_39..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_338f2ee7", 
-            "vmtx": "./ApertureGroup_338f2ee7..mtx.rad", 
-            "default": "./ApertureGroup_338f2ee7..default..0.rad"
+            "identifier": "0_aperture_39", 
+            "vmtx": "./aperture_39..mtx.rad", 
+            "default": "./aperture_39..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_338f2ee7..mtx.rad", 
-            "black": "./ApertureGroup_338f2ee7..black.rad", 
-            "direct": "./ApertureGroup_338f2ee7..direct..1.rad", 
+            "dmtx": "./aperture_39..mtx.rad", 
+            "black": "./aperture_39..black.rad", 
+            "direct": "./aperture_39..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_338f2ee7", 
-            "vmtx": "./ApertureGroup_338f2ee7..mtx.rad", 
-            "default": "./ApertureGroup_338f2ee7..default..1.rad"
+            "identifier": "1_aperture_39", 
+            "vmtx": "./aperture_39..mtx.rad", 
+            "default": "./aperture_39..default..1.rad"
         }
     ], 
-    "ApertureGroup_544420e4": [
+    "aperture_30": [
         {
-            "dmtx": "./ApertureGroup_544420e4..mtx.rad", 
-            "black": "./ApertureGroup_544420e4..black.rad", 
-            "direct": "./ApertureGroup_544420e4..direct..0.rad", 
+            "dmtx": "./aperture_30..mtx.rad", 
+            "black": "./aperture_30..black.rad", 
+            "direct": "./aperture_30..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_544420e4", 
-            "vmtx": "./ApertureGroup_544420e4..mtx.rad", 
-            "default": "./ApertureGroup_544420e4..default..0.rad"
+            "identifier": "0_aperture_30", 
+            "vmtx": "./aperture_30..mtx.rad", 
+            "default": "./aperture_30..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_544420e4..mtx.rad", 
-            "black": "./ApertureGroup_544420e4..black.rad", 
-            "direct": "./ApertureGroup_544420e4..direct..1.rad", 
+            "dmtx": "./aperture_30..mtx.rad", 
+            "black": "./aperture_30..black.rad", 
+            "direct": "./aperture_30..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_544420e4", 
-            "vmtx": "./ApertureGroup_544420e4..mtx.rad", 
-            "default": "./ApertureGroup_544420e4..default..1.rad"
+            "identifier": "1_aperture_30", 
+            "vmtx": "./aperture_30..mtx.rad", 
+            "default": "./aperture_30..default..1.rad"
         }
     ], 
-    "ApertureGroup_10702000": [
+    "EC_ApertureGroup": [
         {
-            "dmtx": "./ApertureGroup_10702000..mtx.rad", 
-            "black": "./ApertureGroup_10702000..black.rad", 
-            "direct": "./ApertureGroup_10702000..direct..0.rad", 
-            "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_10702000", 
-            "vmtx": "./ApertureGroup_10702000..mtx.rad", 
-            "default": "./ApertureGroup_10702000..default..0.rad"
+            "black": "./EC_ApertureGroup..black.rad", 
+            "direct": "./EC_ApertureGroup..direct..0.rad", 
+            "identifier": "0_EC_ApertureGroup", 
+            "default": "./EC_ApertureGroup..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_10702000..mtx.rad", 
-            "black": "./ApertureGroup_10702000..black.rad", 
-            "direct": "./ApertureGroup_10702000..direct..1.rad", 
-            "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_10702000", 
-            "vmtx": "./ApertureGroup_10702000..mtx.rad", 
-            "default": "./ApertureGroup_10702000..default..1.rad"
+            "black": "./EC_ApertureGroup..black.rad", 
+            "direct": "./EC_ApertureGroup..direct..1.rad", 
+            "identifier": "1_EC_ApertureGroup", 
+            "default": "./EC_ApertureGroup..default..1.rad"
         }
     ], 
-    "ApertureGroup_f2471868": [
+    "aperture_31": [
         {
-            "dmtx": "./ApertureGroup_f2471868..mtx.rad", 
-            "black": "./ApertureGroup_f2471868..black.rad", 
-            "direct": "./ApertureGroup_f2471868..direct..0.rad", 
+            "dmtx": "./aperture_31..mtx.rad", 
+            "black": "./aperture_31..black.rad", 
+            "direct": "./aperture_31..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_f2471868", 
-            "vmtx": "./ApertureGroup_f2471868..mtx.rad", 
-            "default": "./ApertureGroup_f2471868..default..0.rad"
+            "identifier": "0_aperture_31", 
+            "vmtx": "./aperture_31..mtx.rad", 
+            "default": "./aperture_31..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_f2471868..mtx.rad", 
-            "black": "./ApertureGroup_f2471868..black.rad", 
-            "direct": "./ApertureGroup_f2471868..direct..1.rad", 
+            "dmtx": "./aperture_31..mtx.rad", 
+            "black": "./aperture_31..black.rad", 
+            "direct": "./aperture_31..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_f2471868", 
-            "vmtx": "./ApertureGroup_f2471868..mtx.rad", 
-            "default": "./ApertureGroup_f2471868..default..1.rad"
+            "identifier": "1_aperture_31", 
+            "vmtx": "./aperture_31..mtx.rad", 
+            "default": "./aperture_31..default..1.rad"
         }
     ], 
-    "ApertureGroup_dcf3542b": [
+    "aperture_32": [
         {
-            "dmtx": "./ApertureGroup_dcf3542b..mtx.rad", 
-            "black": "./ApertureGroup_dcf3542b..black.rad", 
-            "direct": "./ApertureGroup_dcf3542b..direct..0.rad", 
+            "dmtx": "./aperture_32..mtx.rad", 
+            "black": "./aperture_32..black.rad", 
+            "direct": "./aperture_32..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_dcf3542b", 
-            "vmtx": "./ApertureGroup_dcf3542b..mtx.rad", 
-            "default": "./ApertureGroup_dcf3542b..default..0.rad"
+            "identifier": "0_aperture_32", 
+            "vmtx": "./aperture_32..mtx.rad", 
+            "default": "./aperture_32..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_dcf3542b..mtx.rad", 
-            "black": "./ApertureGroup_dcf3542b..black.rad", 
-            "direct": "./ApertureGroup_dcf3542b..direct..1.rad", 
+            "dmtx": "./aperture_32..mtx.rad", 
+            "black": "./aperture_32..black.rad", 
+            "direct": "./aperture_32..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_dcf3542b", 
-            "vmtx": "./ApertureGroup_dcf3542b..mtx.rad", 
-            "default": "./ApertureGroup_dcf3542b..default..1.rad"
+            "identifier": "1_aperture_32", 
+            "vmtx": "./aperture_32..mtx.rad", 
+            "default": "./aperture_32..default..1.rad"
         }
     ], 
-    "ApertureGroup_f917506f": [
+    "aperture_34": [
         {
-            "dmtx": "./ApertureGroup_f917506f..mtx.rad", 
-            "black": "./ApertureGroup_f917506f..black.rad", 
-            "direct": "./ApertureGroup_f917506f..direct..0.rad", 
+            "dmtx": "./aperture_34..mtx.rad", 
+            "black": "./aperture_34..black.rad", 
+            "direct": "./aperture_34..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_f917506f", 
-            "vmtx": "./ApertureGroup_f917506f..mtx.rad", 
-            "default": "./ApertureGroup_f917506f..default..0.rad"
+            "identifier": "0_aperture_34", 
+            "vmtx": "./aperture_34..mtx.rad", 
+            "default": "./aperture_34..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_f917506f..mtx.rad", 
-            "black": "./ApertureGroup_f917506f..black.rad", 
-            "direct": "./ApertureGroup_f917506f..direct..1.rad", 
+            "dmtx": "./aperture_34..mtx.rad", 
+            "black": "./aperture_34..black.rad", 
+            "direct": "./aperture_34..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_f917506f", 
-            "vmtx": "./ApertureGroup_f917506f..mtx.rad", 
-            "default": "./ApertureGroup_f917506f..default..1.rad"
+            "identifier": "1_aperture_34", 
+            "vmtx": "./aperture_34..mtx.rad", 
+            "default": "./aperture_34..default..1.rad"
         }
     ], 
-    "ApertureGroup_7876fccf": [
+    "aperture_33": [
         {
-            "dmtx": "./ApertureGroup_7876fccf..mtx.rad", 
-            "black": "./ApertureGroup_7876fccf..black.rad", 
-            "direct": "./ApertureGroup_7876fccf..direct..0.rad", 
+            "dmtx": "./aperture_33..mtx.rad", 
+            "black": "./aperture_33..black.rad", 
+            "direct": "./aperture_33..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_7876fccf", 
-            "vmtx": "./ApertureGroup_7876fccf..mtx.rad", 
-            "default": "./ApertureGroup_7876fccf..default..0.rad"
+            "identifier": "0_aperture_33", 
+            "vmtx": "./aperture_33..mtx.rad", 
+            "default": "./aperture_33..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_7876fccf..mtx.rad", 
-            "black": "./ApertureGroup_7876fccf..black.rad", 
-            "direct": "./ApertureGroup_7876fccf..direct..1.rad", 
+            "dmtx": "./aperture_33..mtx.rad", 
+            "black": "./aperture_33..black.rad", 
+            "direct": "./aperture_33..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_7876fccf", 
-            "vmtx": "./ApertureGroup_7876fccf..mtx.rad", 
-            "default": "./ApertureGroup_7876fccf..default..1.rad"
+            "identifier": "1_aperture_33", 
+            "vmtx": "./aperture_33..mtx.rad", 
+            "default": "./aperture_33..default..1.rad"
         }
     ], 
-    "ApertureGroup_c8ce3646": [
+    "aperture_7": [
         {
-            "dmtx": "./ApertureGroup_c8ce3646..mtx.rad", 
-            "black": "./ApertureGroup_c8ce3646..black.rad", 
-            "direct": "./ApertureGroup_c8ce3646..direct..0.rad", 
+            "dmtx": "./aperture_7..mtx.rad", 
+            "black": "./aperture_7..black.rad", 
+            "direct": "./aperture_7..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_c8ce3646", 
-            "vmtx": "./ApertureGroup_c8ce3646..mtx.rad", 
-            "default": "./ApertureGroup_c8ce3646..default..0.rad"
+            "identifier": "0_aperture_7", 
+            "vmtx": "./aperture_7..mtx.rad", 
+            "default": "./aperture_7..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_c8ce3646..mtx.rad", 
-            "black": "./ApertureGroup_c8ce3646..black.rad", 
-            "direct": "./ApertureGroup_c8ce3646..direct..1.rad", 
+            "dmtx": "./aperture_7..mtx.rad", 
+            "black": "./aperture_7..black.rad", 
+            "direct": "./aperture_7..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_c8ce3646", 
-            "vmtx": "./ApertureGroup_c8ce3646..mtx.rad", 
-            "default": "./ApertureGroup_c8ce3646..default..1.rad"
+            "identifier": "1_aperture_7", 
+            "vmtx": "./aperture_7..mtx.rad", 
+            "default": "./aperture_7..default..1.rad"
         }
     ], 
-    "ApertureGroup_12b49ff7": [
+    "aperture_35": [
         {
-            "dmtx": "./ApertureGroup_12b49ff7..mtx.rad", 
-            "black": "./ApertureGroup_12b49ff7..black.rad", 
-            "direct": "./ApertureGroup_12b49ff7..direct..0.rad", 
+            "dmtx": "./aperture_35..mtx.rad", 
+            "black": "./aperture_35..black.rad", 
+            "direct": "./aperture_35..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_12b49ff7", 
-            "vmtx": "./ApertureGroup_12b49ff7..mtx.rad", 
-            "default": "./ApertureGroup_12b49ff7..default..0.rad"
+            "identifier": "0_aperture_35", 
+            "vmtx": "./aperture_35..mtx.rad", 
+            "default": "./aperture_35..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_12b49ff7..mtx.rad", 
-            "black": "./ApertureGroup_12b49ff7..black.rad", 
-            "direct": "./ApertureGroup_12b49ff7..direct..1.rad", 
+            "dmtx": "./aperture_35..mtx.rad", 
+            "black": "./aperture_35..black.rad", 
+            "direct": "./aperture_35..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_12b49ff7", 
-            "vmtx": "./ApertureGroup_12b49ff7..mtx.rad", 
-            "default": "./ApertureGroup_12b49ff7..default..1.rad"
+            "identifier": "1_aperture_35", 
+            "vmtx": "./aperture_35..mtx.rad", 
+            "default": "./aperture_35..default..1.rad"
         }
     ], 
-    "ApertureGroup_629c16ee": [
+    "aperture_36": [
         {
-            "dmtx": "./ApertureGroup_629c16ee..mtx.rad", 
-            "black": "./ApertureGroup_629c16ee..black.rad", 
-            "direct": "./ApertureGroup_629c16ee..direct..0.rad", 
+            "dmtx": "./aperture_36..mtx.rad", 
+            "black": "./aperture_36..black.rad", 
+            "direct": "./aperture_36..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_629c16ee", 
-            "vmtx": "./ApertureGroup_629c16ee..mtx.rad", 
-            "default": "./ApertureGroup_629c16ee..default..0.rad"
+            "identifier": "0_aperture_36", 
+            "vmtx": "./aperture_36..mtx.rad", 
+            "default": "./aperture_36..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_629c16ee..mtx.rad", 
-            "black": "./ApertureGroup_629c16ee..black.rad", 
-            "direct": "./ApertureGroup_629c16ee..direct..1.rad", 
+            "dmtx": "./aperture_36..mtx.rad", 
+            "black": "./aperture_36..black.rad", 
+            "direct": "./aperture_36..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_629c16ee", 
-            "vmtx": "./ApertureGroup_629c16ee..mtx.rad", 
-            "default": "./ApertureGroup_629c16ee..default..1.rad"
+            "identifier": "1_aperture_36", 
+            "vmtx": "./aperture_36..mtx.rad", 
+            "default": "./aperture_36..default..1.rad"
         }
     ], 
-    "ApertureGroup_53b11719": [
+    "aperture_37": [
         {
-            "dmtx": "./ApertureGroup_53b11719..mtx.rad", 
-            "black": "./ApertureGroup_53b11719..black.rad", 
-            "direct": "./ApertureGroup_53b11719..direct..0.rad", 
+            "dmtx": "./aperture_37..mtx.rad", 
+            "black": "./aperture_37..black.rad", 
+            "direct": "./aperture_37..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_53b11719", 
-            "vmtx": "./ApertureGroup_53b11719..mtx.rad", 
-            "default": "./ApertureGroup_53b11719..default..0.rad"
+            "identifier": "0_aperture_37", 
+            "vmtx": "./aperture_37..mtx.rad", 
+            "default": "./aperture_37..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_53b11719..mtx.rad", 
-            "black": "./ApertureGroup_53b11719..black.rad", 
-            "direct": "./ApertureGroup_53b11719..direct..1.rad", 
+            "dmtx": "./aperture_37..mtx.rad", 
+            "black": "./aperture_37..black.rad", 
+            "direct": "./aperture_37..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_53b11719", 
-            "vmtx": "./ApertureGroup_53b11719..mtx.rad", 
-            "default": "./ApertureGroup_53b11719..default..1.rad"
+            "identifier": "1_aperture_37", 
+            "vmtx": "./aperture_37..mtx.rad", 
+            "default": "./aperture_37..default..1.rad"
         }
     ], 
-    "ApertureGroup_78c6ce36": [
+    "aperture_2": [
         {
-            "dmtx": "./ApertureGroup_78c6ce36..mtx.rad", 
-            "black": "./ApertureGroup_78c6ce36..black.rad", 
-            "direct": "./ApertureGroup_78c6ce36..direct..0.rad", 
+            "dmtx": "./aperture_2..mtx.rad", 
+            "black": "./aperture_2..black.rad", 
+            "direct": "./aperture_2..direct..0.rad", 
             "tmtx": "clear.xml", 
-            "identifier": "0_ApertureGroup_78c6ce36", 
-            "vmtx": "./ApertureGroup_78c6ce36..mtx.rad", 
-            "default": "./ApertureGroup_78c6ce36..default..0.rad"
+            "identifier": "0_aperture_2", 
+            "vmtx": "./aperture_2..mtx.rad", 
+            "default": "./aperture_2..default..0.rad"
         }, 
         {
-            "dmtx": "./ApertureGroup_78c6ce36..mtx.rad", 
-            "black": "./ApertureGroup_78c6ce36..black.rad", 
-            "direct": "./ApertureGroup_78c6ce36..direct..1.rad", 
+            "dmtx": "./aperture_2..mtx.rad", 
+            "black": "./aperture_2..black.rad", 
+            "direct": "./aperture_2..direct..1.rad", 
             "tmtx": "diffuse50.xml", 
-            "identifier": "1_ApertureGroup_78c6ce36", 
-            "vmtx": "./ApertureGroup_78c6ce36..mtx.rad", 
-            "default": "./ApertureGroup_78c6ce36..default..1.rad"
+            "identifier": "1_aperture_2", 
+            "vmtx": "./aperture_2..mtx.rad", 
+            "default": "./aperture_2..default..1.rad"
         }
     ]
 }
