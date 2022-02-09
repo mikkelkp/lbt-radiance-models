@@ -1,0 +1,122 @@
+{
+    "skylight_2": [
+        {
+            "dmtx": "./skylight_2..mtx.rad", 
+            "black": "./skylight_2..black.rad", 
+            "direct": "./skylight_2..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_skylight_2", 
+            "vmtx": "./skylight_2..mtx.rad", 
+            "default": "./skylight_2..default..0.rad"
+        }, 
+        {
+            "dmtx": "./skylight_2..mtx.rad", 
+            "black": "./skylight_2..black.rad", 
+            "direct": "./skylight_2..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_skylight_2", 
+            "vmtx": "./skylight_2..mtx.rad", 
+            "default": "./skylight_2..default..1.rad"
+        }
+    ], 
+    "south_window": [
+        {
+            "dmtx": "./south_window..mtx.rad", 
+            "black": "./south_window..black.rad", 
+            "direct": "./south_window..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_south_window", 
+            "vmtx": "./south_window..mtx.rad", 
+            "default": "./south_window..default..0.rad"
+        }, 
+        {
+            "dmtx": "./south_window..mtx.rad", 
+            "black": "./south_window..black.rad", 
+            "direct": "./south_window..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_south_window", 
+            "vmtx": "./south_window..mtx.rad", 
+            "default": "./south_window..default..1.rad"
+        }
+    ], 
+    "east_window_classroom": [
+        {
+            "dmtx": "./east_window_classroom..mtx.rad", 
+            "black": "./east_window_classroom..black.rad", 
+            "direct": "./east_window_classroom..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_east_window_classroom", 
+            "vmtx": "./east_window_classroom..mtx.rad", 
+            "default": "./east_window_classroom..default..0.rad"
+        }, 
+        {
+            "dmtx": "./east_window_classroom..mtx.rad", 
+            "black": "./east_window_classroom..black.rad", 
+            "direct": "./east_window_classroom..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_east_window_classroom", 
+            "vmtx": "./east_window_classroom..mtx.rad", 
+            "default": "./east_window_classroom..default..1.rad"
+        }
+    ], 
+    "skylight_1": [
+        {
+            "dmtx": "./skylight_1..mtx.rad", 
+            "black": "./skylight_1..black.rad", 
+            "direct": "./skylight_1..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_skylight_1", 
+            "vmtx": "./skylight_1..mtx.rad", 
+            "default": "./skylight_1..default..0.rad"
+        }, 
+        {
+            "dmtx": "./skylight_1..mtx.rad", 
+            "black": "./skylight_1..black.rad", 
+            "direct": "./skylight_1..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_skylight_1", 
+            "vmtx": "./skylight_1..mtx.rad", 
+            "default": "./skylight_1..default..1.rad"
+        }
+    ], 
+    "north_window": [
+        {
+            "dmtx": "./north_window..mtx.rad", 
+            "black": "./north_window..black.rad", 
+            "direct": "./north_window..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_north_window", 
+            "vmtx": "./north_window..mtx.rad", 
+            "default": "./north_window..default..0.rad"
+        }, 
+        {
+            "dmtx": "./north_window..mtx.rad", 
+            "black": "./north_window..black.rad", 
+            "direct": "./north_window..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_north_window", 
+            "vmtx": "./north_window..mtx.rad", 
+            "default": "./north_window..default..1.rad"
+        }
+    ], 
+    "east_window_office": [
+        {
+            "dmtx": "./east_window_office..mtx.rad", 
+            "black": "./east_window_office..black.rad", 
+            "direct": "./east_window_office..direct..0.rad", 
+            "tmtx": "clear.xml", 
+            "identifier": "0_east_window_office", 
+            "vmtx": "./east_window_office..mtx.rad", 
+            "default": "./east_window_office..default..0.rad"
+        }, 
+        {
+            "dmtx": "./east_window_office..mtx.rad", 
+            "black": "./east_window_office..black.rad", 
+            "direct": "./east_window_office..direct..1.rad", 
+            "tmtx": "diffuse50.xml", 
+            "identifier": "1_east_window_office", 
+            "vmtx": "./east_window_office..mtx.rad", 
+            "default": "./east_window_office..default..1.rad"
+        }
+    ]
+}

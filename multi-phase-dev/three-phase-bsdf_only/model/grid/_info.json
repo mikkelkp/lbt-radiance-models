@@ -1,0 +1,16 @@
+[
+  {
+    "full_id": "class_room", 
+    "name": "class_room", 
+    "identifier": "class_room", 
+    "group": "", 
+    "count": 72
+  }, 
+  {
+    "full_id": "office", 
+    "name": "office", 
+    "identifier": "office", 
+    "group": "", 
+    "count": 54
+  }
+]

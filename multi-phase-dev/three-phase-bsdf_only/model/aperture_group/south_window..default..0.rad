@@ -1,0 +1,11 @@
+# STATE 0 for "south_window"
+
+void BSDF clear
+6 0.0 ./model/bsdf/clear.xml 0.01 0.01 1.0 .
+0
+0
+
+clear polygon south_window_d41948ec
+0
+0
+12 -2.5 -9.0 1.04898031077 2.5 -9.0 1.04898031077 2.5 -9.0 3.54898031077 -2.5 -9.0 3.54898031077

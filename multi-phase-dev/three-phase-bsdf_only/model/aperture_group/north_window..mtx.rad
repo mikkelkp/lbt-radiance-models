@@ -1,0 +1,13 @@
+# VMTX representation for "north_window"
+
+void glow white_glow_north_window
+0
+0
+4 1.0 1.0 1.0 0.0
+
+#@rfluxmtx h=kf u=-0.0,-0.0,-1.0
+
+white_glow_north_window polygon north_window_8d468f3e
+0
+0
+12 2.5 12.0 3.2 -2.5 12.0 3.2 -2.5 12.0 0.7 2.5 12.0 0.7
