@@ -1,0 +1,17 @@
+# Room_10..receiver.rad
+
+!xform ./model/aperture_group/aperture_34..mtx.rad
+
+!xform ./model/aperture_group/aperture_35..mtx.rad
+
+!xform ./model/aperture_group/aperture_36..mtx.rad
+
+!xform ./model/aperture_group/aperture_37..mtx.rad
+
+!xform ./model/aperture_group/aperture_38..mtx.rad
+
+!xform ./model/aperture_group/aperture_39..mtx.rad
+
+!xform ./model/aperture_group/aperture_32..mtx.rad
+
+!xform ./model/aperture_group/aperture_33..mtx.rad

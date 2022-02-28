@@ -5,9 +5,9 @@ void glow white_glow_aperture_32
 0
 4 1.0 1.0 1.0 0.0
 
-#@rfluxmtx h=kf u=1.0,-0.0,0.0
+#@rfluxmtx h=kf u=0.0,-0.0,-1.0
 
-white_glow_aperture_32 polygon aperture_32_cdd50a45
+white_glow_aperture_32 polygon aperture_32_5365656b
 0
 0
-12 -29.75 2.5 11.0 -27.25 2.5 11.0 -27.25 0.5 11.0 -29.75 0.5 11.0
+12 -51.0 -27.5 4.2 -51.0 -29.5 4.2 -51.0 -29.5 0.2 -51.0 -27.5 0.2

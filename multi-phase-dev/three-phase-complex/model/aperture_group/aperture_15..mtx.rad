@@ -5,9 +5,9 @@ void glow white_glow_aperture_15
 0
 4 1.0 1.0 1.0 0.0
 
-#@rfluxmtx h=kf u=0.0,0.0,-1.0
+#@rfluxmtx h=kf u=0.0,-1.0,0.0
 
-white_glow_aperture_15 polygon aperture_15_d3820d06
+white_glow_aperture_15 polygon aperture_15_6e6a4e01
 0
 0
-12 -74.5 -9.0 3.54898031077 -69.5 -9.0 3.54898031077 -69.5 -9.0 1.04898031077 -74.5 -9.0 1.04898031077
+12 -23.75 2.5 7.0 -21.25 2.5 7.0 -21.25 0.5 7.0 -23.75 0.5 7.0
