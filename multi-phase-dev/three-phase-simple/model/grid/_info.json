@@ -1,6 +1,20 @@
 [
   {
     "full_id": "class_room", 
+    "light_path": [
+      [
+        "skylight_2"
+      ], 
+      [
+        "skylight_1"
+      ], 
+      [
+        "east_window_classroom"
+      ], 
+      [
+        "static_apertures"
+      ]
+    ], 
     "name": "class_room", 
     "identifier": "class_room", 
     "group": "", 
@@ -8,6 +22,14 @@
   }, 
   {
     "full_id": "office", 
+    "light_path": [
+      [
+        "east_window_office"
+      ], 
+      [
+        "Electrochromic_Windows"
+      ]
+    ], 
     "name": "office", 
     "identifier": "office", 
     "group": "", 
