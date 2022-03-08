@@ -1,0 +1,13 @@
+# VMTX representation for "aperture_17"
+
+void glow white_glow_aperture_17
+0
+0
+4 1.0 1.0 1.0 0.0
+
+#@rfluxmtx h=kf u=0.0,0.0,-1.0
+
+white_glow_aperture_17 polygon aperture_17_ea82a57a
+0
+0
+12 -80.5 -9.0 3.54898031077 -75.5 -9.0 3.54898031077 -75.5 -9.0 1.04898031077 -80.5 -9.0 1.04898031077

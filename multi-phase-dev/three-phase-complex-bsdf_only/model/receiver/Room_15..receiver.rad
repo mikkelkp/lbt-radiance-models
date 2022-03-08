@@ -1,0 +1,5 @@
+# Room_15..receiver.rad
+
+!xform ./model/aperture_group/aperture_43..mtx.rad
+
+!xform ./model/aperture_group/aperture_38..mtx.rad

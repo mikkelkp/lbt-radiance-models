@@ -1,0 +1,11 @@
+# STATE 0 for "north_window"
+
+void BSDF clear
+6 0.0 ./model/bsdf/clear.xml 0.01 0.01 1.0 .
+0
+0
+
+clear polygon north_window_7bde4b11
+0
+0
+12 2.5 12.0 0.7 -2.5 12.0 0.7 -2.5 12.0 3.2 2.5 12.0 3.2

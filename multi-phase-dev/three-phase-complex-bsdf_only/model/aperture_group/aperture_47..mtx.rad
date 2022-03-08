@@ -1,0 +1,13 @@
+# VMTX representation for "aperture_47"
+
+void glow white_glow_aperture_47
+0
+0
+4 1.0 1.0 1.0 0.0
+
+#@rfluxmtx h=kf u=0.0,0.0,-1.0
+
+white_glow_aperture_47 polygon aperture_47_e0e43a25
+0
+0
+12 -50.5 -9.0 7.54898031077 -45.5 -9.0 7.54898031077 -45.5 -9.0 5.04898031077 -50.5 -9.0 5.04898031077

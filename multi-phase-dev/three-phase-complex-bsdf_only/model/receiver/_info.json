@@ -1,0 +1,220 @@
+[
+  {
+    "aperture_groups": [
+      "aperture_2", 
+      "aperture_3", 
+      "aperture_61", 
+      "aperture_4"
+    ], 
+    "identifier": "Room_1", 
+    "path": "Room_1..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_1", 
+      "aperture_62"
+    ], 
+    "identifier": "Room_2", 
+    "path": "Room_2..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_5"
+    ], 
+    "identifier": "Room_3", 
+    "path": "Room_3..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_6"
+    ], 
+    "identifier": "Room_4", 
+    "path": "Room_4..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_20", 
+      "aperture_18"
+    ], 
+    "identifier": "Room_5", 
+    "path": "Room_5..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_7"
+    ], 
+    "identifier": "Room_7", 
+    "path": "Room_7..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_37", 
+      "aperture_19"
+    ], 
+    "identifier": "Room_8", 
+    "path": "Room_8..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_8"
+    ], 
+    "identifier": "Room_9", 
+    "path": "Room_9..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_63", 
+      "aperture_64", 
+      "aperture_53", 
+      "aperture_54", 
+      "aperture_55", 
+      "aperture_56", 
+      "aperture_57", 
+      "aperture_58", 
+      "aperture_59", 
+      "aperture_60"
+    ], 
+    "identifier": "Room_10", 
+    "path": "Room_10..receiver.rad", 
+    "count": 324
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_21", 
+      "aperture_22", 
+      "aperture_23", 
+      "aperture_24"
+    ], 
+    "identifier": "Room_11", 
+    "path": "Room_11..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_27", 
+      "aperture_28", 
+      "aperture_25", 
+      "aperture_26"
+    ], 
+    "identifier": "Room_12", 
+    "path": "Room_12..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_29", 
+      "aperture_30", 
+      "aperture_31", 
+      "aperture_32"
+    ], 
+    "identifier": "Room_13", 
+    "path": "Room_13..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_34", 
+      "aperture_35", 
+      "aperture_36", 
+      "aperture_33"
+    ], 
+    "identifier": "Room_14", 
+    "path": "Room_14..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_43", 
+      "aperture_38"
+    ], 
+    "identifier": "Room_15", 
+    "path": "Room_15..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_41", 
+      "aperture_42", 
+      "aperture_39", 
+      "aperture_40"
+    ], 
+    "identifier": "Room_16", 
+    "path": "Room_16..receiver.rad", 
+    "count": 72
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_14"
+    ], 
+    "identifier": "Room_17", 
+    "path": "Room_17..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_17"
+    ], 
+    "identifier": "Room_18", 
+    "path": "Room_18..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_15"
+    ], 
+    "identifier": "Room_19", 
+    "path": "Room_19..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_16"
+    ], 
+    "identifier": "Room_20", 
+    "path": "Room_20..receiver.rad", 
+    "count": 54
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_11", 
+      "aperture_12", 
+      "aperture_13", 
+      "aperture_9", 
+      "aperture_10"
+    ], 
+    "identifier": "Room_21", 
+    "path": "Room_21..receiver.rad", 
+    "count": 270
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_44", 
+      "aperture_45", 
+      "aperture_46", 
+      "aperture_47", 
+      "aperture_48"
+    ], 
+    "identifier": "Room_22", 
+    "path": "Room_22..receiver.rad", 
+    "count": 270
+  }, 
+  {
+    "aperture_groups": [
+      "aperture_49", 
+      "aperture_50", 
+      "aperture_51", 
+      "aperture_52"
+    ], 
+    "identifier": "Room_23", 
+    "path": "Room_23..receiver.rad", 
+    "count": 72
+  }
+]
