@@ -6,3 +6,4 @@ the root begins at the location of the "model" folder.
 1. multi-phase-dev contains folders that will be used for testing of multi-phase scripts.
 2. from-hb-radiance-folder consists of a mirror of the [assests folder](https://github.com/ladybug-tools/honeybee-radiance-folder/tree/master/tests/assets/project_folder) used for testing in [honeybee-radiance-folder](https://github.com/ladybug-tools/honeybee-radiance-folder)
 3. rad-tutorial-folder contains files from the Radiance matrix-based methods tutorial. These files will be used for initial prototyping.
+4. sample contains models with dynamic states. One model with a small grid and one with a large grid. These models will be used for testing postprocessing.
