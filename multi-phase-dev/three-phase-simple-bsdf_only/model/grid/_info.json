@@ -3,16 +3,16 @@
     "full_id": "class_room", 
     "light_path": [
       [
-        "skylight_2"
-      ], 
-      [
         "skylight_1"
       ], 
       [
-        "east_window_classroom"
+        "skylight_2"
       ], 
       [
         "north_window"
+      ], 
+      [
+        "east_window_classroom"
       ]
     ], 
     "name": "class_room", 
@@ -24,10 +24,10 @@
     "full_id": "office", 
     "light_path": [
       [
-        "east_window_office"
+        "south_window"
       ], 
       [
-        "south_window"
+        "east_window_office"
       ]
     ], 
     "name": "office", 

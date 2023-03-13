@@ -4,6 +4,6 @@
 
 !xform ./model/aperture_group/aperture_35..mtx.rad
 
-!xform ./model/aperture_group/aperture_36..mtx.rad
-
 !xform ./model/aperture_group/aperture_33..mtx.rad
+
+!xform ./model/aperture_group/aperture_36..mtx.rad

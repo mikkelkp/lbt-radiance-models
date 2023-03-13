@@ -3,16 +3,16 @@
     "full_id": "Room_1", 
     "light_path": [
       [
-        "aperture_2"
-      ], 
-      [
         "aperture_3"
       ], 
       [
-        "aperture_61"
+        "aperture_4"
       ], 
       [
-        "aperture_4"
+        "aperture_2"
+      ], 
+      [
+        "aperture_61"
       ]
     ], 
     "name": "Room_1", 
@@ -131,18 +131,6 @@
         "aperture_64"
       ], 
       [
-        "aperture_53"
-      ], 
-      [
-        "aperture_54"
-      ], 
-      [
-        "aperture_55"
-      ], 
-      [
-        "aperture_56"
-      ], 
-      [
         "aperture_57"
       ], 
       [
@@ -153,6 +141,18 @@
       ], 
       [
         "aperture_60"
+      ], 
+      [
+        "aperture_53"
+      ], 
+      [
+        "aperture_54"
+      ], 
+      [
+        "aperture_55"
+      ], 
+      [
+        "aperture_56"
       ]
     ], 
     "name": "Room_10", 
@@ -164,13 +164,13 @@
     "full_id": "Room_11", 
     "light_path": [
       [
-        "aperture_21"
-      ], 
-      [
         "aperture_22"
       ], 
       [
         "aperture_23"
+      ], 
+      [
+        "aperture_21"
       ], 
       [
         "aperture_24"
@@ -185,16 +185,16 @@
     "full_id": "Room_12", 
     "light_path": [
       [
-        "aperture_27"
+        "aperture_26"
       ], 
       [
-        "aperture_28"
+        "aperture_27"
       ], 
       [
         "aperture_25"
       ], 
       [
-        "aperture_26"
+        "aperture_28"
       ]
     ], 
     "name": "Room_12", 
@@ -206,13 +206,13 @@
     "full_id": "Room_13", 
     "light_path": [
       [
-        "aperture_29"
-      ], 
-      [
         "aperture_30"
       ], 
       [
         "aperture_31"
+      ], 
+      [
+        "aperture_29"
       ], 
       [
         "aperture_32"
@@ -233,10 +233,10 @@
         "aperture_35"
       ], 
       [
-        "aperture_36"
+        "aperture_33"
       ], 
       [
-        "aperture_33"
+        "aperture_36"
       ]
     ], 
     "name": "Room_14", 
@@ -263,16 +263,16 @@
     "full_id": "Room_16", 
     "light_path": [
       [
-        "aperture_41"
+        "aperture_40"
       ], 
       [
-        "aperture_42"
+        "aperture_41"
       ], 
       [
         "aperture_39"
       ], 
       [
-        "aperture_40"
+        "aperture_42"
       ]
     ], 
     "name": "Room_16", 
@@ -332,6 +332,12 @@
     "full_id": "Room_21", 
     "light_path": [
       [
+        "aperture_9"
+      ], 
+      [
+        "aperture_10"
+      ], 
+      [
         "aperture_11"
       ], 
       [
@@ -339,12 +345,6 @@
       ], 
       [
         "aperture_13"
-      ], 
-      [
-        "aperture_9"
-      ], 
-      [
-        "aperture_10"
       ]
     ], 
     "name": "Room_21", 
@@ -380,13 +380,13 @@
     "full_id": "Room_23", 
     "light_path": [
       [
-        "aperture_49"
-      ], 
-      [
         "aperture_50"
       ], 
       [
         "aperture_51"
+      ], 
+      [
+        "aperture_49"
       ], 
       [
         "aperture_52"

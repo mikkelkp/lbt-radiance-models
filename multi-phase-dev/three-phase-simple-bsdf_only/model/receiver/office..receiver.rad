@@ -1,5 +1,5 @@
 # office..receiver.rad
 
-!xform ./model/aperture_group/east_window_office..mtx.rad
-
 !xform ./model/aperture_group/south_window..mtx.rad
+
+!xform ./model/aperture_group/east_window_office..mtx.rad

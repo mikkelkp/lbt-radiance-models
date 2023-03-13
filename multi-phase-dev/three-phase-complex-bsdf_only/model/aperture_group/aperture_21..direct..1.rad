@@ -1,11 +1,11 @@
 # STATE 1 for "aperture_21"
 
 void BSDF diffuse50
-6 0.0 ./model/bsdf/diffuse50.xml 0.01 0.01 1.0 .
+6 0.0 "./model/bsdf/diffuse50.xml" 0.01 0.01 1.0 .
 0
 0
 
-diffuse50 polygon aperture_21_d2eacab4
+diffuse50 polygon aperture_21_f5059026
 0
 0
 12 -9.5 12.0 4.7 -14.5 12.0 4.7 -14.5 12.0 7.2 -9.5 12.0 7.2

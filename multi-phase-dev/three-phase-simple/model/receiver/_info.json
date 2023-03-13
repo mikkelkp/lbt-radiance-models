@@ -1,10 +1,11 @@
 [
   {
     "aperture_groups": [
-      "skylight_2", 
       "skylight_1", 
+      "skylight_2", 
       "east_window_classroom"
     ], 
+    "full_id": "class_room", 
     "identifier": "class_room", 
     "path": "class_room..receiver.rad", 
     "count": 72
@@ -13,6 +14,7 @@
     "aperture_groups": [
       "east_window_office"
     ], 
+    "full_id": "office", 
     "identifier": "office", 
     "path": "office..receiver.rad", 
     "count": 54

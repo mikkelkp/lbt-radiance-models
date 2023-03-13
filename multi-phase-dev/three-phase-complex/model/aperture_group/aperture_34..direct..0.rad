@@ -1,11 +1,11 @@
 # STATE 0 for "aperture_34"
 
 void BSDF clear
-6 0.0 ./model/bsdf/clear.xml 0.01 0.01 1.0 .
+6 0.0 "./model/bsdf/clear.xml" 0.01 0.01 1.0 .
 0
 0
 
-clear polygon aperture_34_82bda6de
+clear polygon aperture_34_6cb81c66
 0
 0
 12 -51.0 -33.5 0.2 -51.0 -35.5 0.2 -51.0 -35.5 4.2 -51.0 -33.5 4.2
