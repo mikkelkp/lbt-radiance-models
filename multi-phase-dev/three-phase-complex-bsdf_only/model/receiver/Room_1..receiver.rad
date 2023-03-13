@@ -1,9 +1,9 @@
 # Room_1..receiver.rad
 
-!xform ./model/aperture_group/aperture_2..mtx.rad
-
 !xform ./model/aperture_group/aperture_3..mtx.rad
 
-!xform ./model/aperture_group/aperture_61..mtx.rad
-
 !xform ./model/aperture_group/aperture_4..mtx.rad
+
+!xform ./model/aperture_group/aperture_2..mtx.rad
+
+!xform ./model/aperture_group/aperture_61..mtx.rad

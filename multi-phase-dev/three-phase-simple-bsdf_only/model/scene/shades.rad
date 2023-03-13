@@ -1,149 +1,149 @@
-generic_exterior_shade_0.35 polygon skylight_1_ccde0ed0_OutBorder0
+generic_exterior_shade_0.35 polygon skylight_1_27d0c2e8_OutBorder0
 0
 0
 12 -0.25 0.5 7.0 -0.25 2.5 7.0 -0.25 2.5 7.3 -0.25 0.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_1_ccde0ed0_OutBorder1
+generic_exterior_shade_0.35 polygon skylight_1_27d0c2e8_OutBorder1
 0
 0
 12 -0.25 2.5 7.0 -2.75 2.5 7.0 -2.75 2.5 7.3 -0.25 2.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_1_ccde0ed0_OutBorder2
+generic_exterior_shade_0.35 polygon skylight_1_27d0c2e8_OutBorder2
 0
 0
 12 -2.75 2.5 7.0 -2.75 0.5 7.0 -2.75 0.5 7.3 -2.75 2.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_1_ccde0ed0_OutBorder3
+generic_exterior_shade_0.35 polygon skylight_1_27d0c2e8_OutBorder3
 0
 0
 12 -2.75 0.5 7.0 -0.25 0.5 7.0 -0.25 0.5 7.3 -2.75 0.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_2_506705d1_OutBorder0
+generic_exterior_shade_0.35 polygon skylight_2_89cce429_OutBorder0
 0
 0
 12 0.25 0.5 7.0 2.75 0.5 7.0 2.75 0.5 7.3 0.25 0.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_2_506705d1_OutBorder1
+generic_exterior_shade_0.35 polygon skylight_2_89cce429_OutBorder1
 0
 0
 12 2.75 0.5 7.0 2.75 2.5 7.0 2.75 2.5 7.3 2.75 0.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_2_506705d1_OutBorder2
+generic_exterior_shade_0.35 polygon skylight_2_89cce429_OutBorder2
 0
 0
 12 2.75 2.5 7.0 0.25 2.5 7.0 0.25 2.5 7.3 2.75 2.5 7.3
 
-generic_exterior_shade_0.35 polygon skylight_2_506705d1_OutBorder3
+generic_exterior_shade_0.35 polygon skylight_2_89cce429_OutBorder3
 0
 0
 12 0.25 2.5 7.0 0.25 0.5 7.0 0.25 0.5 7.3 0.25 2.5 7.3
 
-generic_exterior_shade_0.35 polygon north_window_7bde4b11_OutBorder0
+generic_exterior_shade_0.35 polygon north_window_b0c2e49f_OutBorder0
 0
 0
 12 2.5 12.0 0.7 -2.5 12.0 0.7 -2.5 12.3 0.7 2.5 12.3 0.7
 
-generic_exterior_shade_0.35 polygon north_window_7bde4b11_OutBorder1
+generic_exterior_shade_0.35 polygon north_window_b0c2e49f_OutBorder1
 0
 0
 12 -2.5 12.0 0.7 -2.5 12.0 3.2 -2.5 12.3 3.2 -2.5 12.3 0.7
 
-generic_exterior_shade_0.35 polygon north_window_7bde4b11_OutBorder2
+generic_exterior_shade_0.35 polygon north_window_b0c2e49f_OutBorder2
 0
 0
 12 -2.5 12.0 3.2 2.5 12.0 3.2 2.5 12.3 3.2 -2.5 12.3 3.2
 
-generic_exterior_shade_0.35 polygon north_window_7bde4b11_OutBorder3
+generic_exterior_shade_0.35 polygon north_window_b0c2e49f_OutBorder3
 0
 0
 12 2.5 12.0 3.2 2.5 12.0 0.7 2.5 12.3 0.7 2.5 12.3 3.2
 
-generic_exterior_shade_0.35 polygon east_window_classroom_70050470_OutBorder0
+generic_exterior_shade_0.35 polygon east_window_classroom_cd0e4b7c_OutBorder0
 0
 0
 12 3.0 2.5 3.2 3.0 0.5 3.2 3.3 0.5 3.2 3.3 2.5 3.2
 
-generic_exterior_shade_0.35 polygon east_window_classroom_70050470_OutBorder1
+generic_exterior_shade_0.35 polygon east_window_classroom_cd0e4b7c_OutBorder1
 0
 0
 12 3.0 0.5 3.2 3.0 0.5 0.7 3.3 0.5 0.7 3.3 0.5 3.2
 
-generic_exterior_shade_0.35 polygon east_window_classroom_70050470_OutBorder2
+generic_exterior_shade_0.35 polygon east_window_classroom_cd0e4b7c_OutBorder2
 0
 0
 12 3.0 0.5 0.7 3.0 2.5 0.7 3.3 2.5 0.7 3.3 0.5 0.7
 
-generic_exterior_shade_0.35 polygon east_window_classroom_70050470_OutBorder3
+generic_exterior_shade_0.35 polygon east_window_classroom_cd0e4b7c_OutBorder3
 0
 0
 12 3.0 2.5 0.7 3.0 2.5 3.2 3.3 2.5 3.2 3.3 2.5 0.7
 
-generic_exterior_shade_0.35 polygon south_window_9b668271_OutBorder0
+generic_exterior_shade_0.35 polygon south_window_b0edf915_OutBorder0
 0
 0
 12 -2.5 -9.0 1.04898031077 2.5 -9.0 1.04898031077 2.5 -9.3 1.04898031077 -2.5 -9.3 1.04898031077
 
-generic_exterior_shade_0.35 polygon south_window_9b668271_OutBorder1
+generic_exterior_shade_0.35 polygon south_window_b0edf915_OutBorder1
 0
 0
 12 2.5 -9.0 1.04898031077 2.5 -9.0 3.54898031077 2.5 -9.3 3.54898031077 2.5 -9.3 1.04898031077
 
-generic_exterior_shade_0.35 polygon south_window_9b668271_OutBorder2
+generic_exterior_shade_0.35 polygon south_window_b0edf915_OutBorder2
 0
 0
 12 2.5 -9.0 3.54898031077 -2.5 -9.0 3.54898031077 -2.5 -9.3 3.54898031077 2.5 -9.3 3.54898031077
 
-generic_exterior_shade_0.35 polygon south_window_9b668271_OutBorder3
+generic_exterior_shade_0.35 polygon south_window_b0edf915_OutBorder3
 0
 0
 12 -2.5 -9.0 3.54898031077 -2.5 -9.0 1.04898031077 -2.5 -9.3 1.04898031077 -2.5 -9.3 3.54898031077
 
-generic_exterior_shade_0.35 polygon east_window_office_3e4175db_OutBorder0
+generic_exterior_shade_0.35 polygon east_window_office_eea02fcd_OutBorder0
 0
 0
 12 3.0 -0.5 3.2 3.0 -2.5 3.2 3.3 -2.5 3.2 3.3 -0.5 3.2
 
-generic_exterior_shade_0.35 polygon east_window_office_3e4175db_OutBorder1
+generic_exterior_shade_0.35 polygon east_window_office_eea02fcd_OutBorder1
 0
 0
 12 3.0 -2.5 3.2 3.0 -2.5 0.7 3.3 -2.5 0.7 3.3 -2.5 3.2
 
-generic_exterior_shade_0.35 polygon east_window_office_3e4175db_OutBorder2
+generic_exterior_shade_0.35 polygon east_window_office_eea02fcd_OutBorder2
 0
 0
 12 3.0 -2.5 0.7 3.0 -0.5 0.7 3.3 -0.5 0.7 3.3 -2.5 0.7
 
-generic_exterior_shade_0.35 polygon east_window_office_3e4175db_OutBorder3
+generic_exterior_shade_0.35 polygon east_window_office_eea02fcd_OutBorder3
 0
 0
 12 3.0 -0.5 0.7 3.0 -0.5 3.2 3.3 -0.5 3.2 3.3 -0.5 0.7
 
-generic_context_0.20 polygon Shade_57d9a2d4_0
+generic_context_0.20 polygon Shade_0343b3a9_0
 0
 0
 12 36.0 -36.0 0.0 36.0 -36.0 8.0 3.0 -36.0 8.0 3.0 -36.0 0.0
 
-generic_context_0.20 polygon Shade_57d9a2d4_1
+generic_context_0.20 polygon Shade_0343b3a9_1
 0
 0
 12 36.0 -36.0 8.0 36.0 -27.0 8.0 3.0 -27.0 8.0 3.0 -36.0 8.0
 
-generic_context_0.20 polygon Shade_57d9a2d4_2
+generic_context_0.20 polygon Shade_0343b3a9_2
 0
 0
 12 36.0 -27.0 0.0 36.0 -36.0 0.0 3.0 -36.0 0.0 3.0 -27.0 0.0
 
-generic_context_0.20 polygon Shade_57d9a2d4_3
+generic_context_0.20 polygon Shade_0343b3a9_3
 0
 0
 12 36.0 -36.0 0.0 36.0 -27.0 0.0 36.0 -27.0 8.0 36.0 -36.0 8.0
 
-generic_context_0.20 polygon Shade_57d9a2d4_4
+generic_context_0.20 polygon Shade_0343b3a9_4
 0
 0
 12 3.0 -36.0 0.0 3.0 -36.0 8.0 3.0 -27.0 8.0 3.0 -27.0 0.0
 
-generic_context_0.20 polygon Shade_57d9a2d4_5
+generic_context_0.20 polygon Shade_0343b3a9_5
 0
 0
 12 36.0 -27.0 8.0 36.0 -27.0 0.0 3.0 -27.0 0.0 3.0 -27.0 8.0
